@@ -9,7 +9,7 @@ class JDPC:
 
     #初始化
     def __init__(self):
-        self.pageIndex = 1
+        self.pageCodes = []
         self.mobileUrls = []
 
     #传入某一页的索引获得页面代码
@@ -26,7 +26,7 @@ class JDPC:
                 print u"连接失败，错误原因",e.reason
                 return None
 
-    #传入某页代码，反回本页所有商品的地址
+    #传入某页代码，保存所有商品的地址到列表
     def getPageItems(self,pageIndex):
         pageCode = self.getPage(pageIndex)
         if not pageCode:
@@ -37,11 +37,30 @@ class JDPC:
         for item in items:
             self.mobileUrls.append(item)
 
-    ##打印获得的地址
+    #获取总页数
+    def getPageCnt(self):
+        pageCode = self.getPage(1)
+        if not pageCode:
+            print u"页面加载失败"
+            return None
+        pattern = re.compile('p-skip.*?<b>(.*?)</b>.*?</em>',re.S)
+        result = re.search(pattern,pageCode)
+        if result:
+            return result.group(1).strip()
+        else:
+            return None
+
+    #获取所有商品地址
+    def getAllUrl(self):
+        for pageIndex in range(1,int(self.getPageCnt())+1):
+            self.getPageItems(pageIndex)
+
+    #打印所有商品地址
     def printUrl(self):
-        self.getPageItems(self.pageIndex)
+        self.getAllUrl()
         for url in self.mobileUrls:
             print url
+
 
 
 spider = JDPC()
