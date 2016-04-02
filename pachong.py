@@ -11,6 +11,7 @@ class JDPC:
     def __init__(self):
         self.pageCodes = []
         self.mobileUrls = []
+        self.file = None
 
     #传入某一页的索引获得页面代码
     def getPage(self,pageIndex):
@@ -61,10 +62,21 @@ class JDPC:
         for url in self.mobileUrls:
             print url
 
+    #设置保存的txt文件标题
+    def setFileTitle(self,title):
+        self.file = open(title+".txt","w+")
+
+    #写入文件
+    def writeData(self,content):
+        for item in content:
+            self.file.write(item)
+
 
 
 spider = JDPC()
-spider.printUrl()
+spider.getAllUrl()
+spider.setFileTitle("urls")
+spider.writeData(spider.mobileUrls)
 
 
 
