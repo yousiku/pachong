@@ -1,8 +1,55 @@
+#-*- coding:utf-8 -*-
 import urllib2
 import urllib
 import re
 
 
+#京东爬虫类
+class JDPC:
+
+    #初始化
+    def __init__(self):
+        self.pageIndex = 1
+        self.mobileUrls = []
+
+    #传入某一页的索引获得页面代码
+    def getPage(self,pageIndex):
+        try:
+            url = "http://list.jd.com/list.html?cat=9987,653,655&page=%s&go=0&JL=6_0_0" %pageIndex
+            request = urllib2.Request(url)
+            response = urllib2.urlopen(request)
+            pageCode = response.read()
+            return pageCode
+
+        except urllib2.URLError, e:
+            if hasattr(e,"reason"):
+                print u"连接失败，错误原因",e.reason
+                return None
+
+    #传入某页代码，反回本页所有商品的地址
+    def getPageItems(self,pageIndex):
+        pageCode = self.getPage(pageIndex)
+        if not pageCode:
+            print u"页面加载失败"
+            return None
+        pattern = re.compile('<div.*?j-sku-item.*?<a.*?href="(.*?)" >',re.S)
+        items = re.findall(pattern,pageCode)
+        for item in items:
+            self.mobileUrls.append(item)
+
+    ##打印获得的地址
+    def printUrl(self):
+        self.getPageItems(self.pageIndex)
+        for url in self.mobileUrls:
+            print url
+
+
+spider = JDPC()
+spider.printUrl()
+
+
+
+"""
 values = {}
 values['cat'] = "9987,653,655"
 values['page'] = "2"
@@ -19,3 +66,4 @@ items = re.findall(pattern,content)
 print items[0]
 for item in items:
     print item
+"""
