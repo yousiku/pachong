@@ -12,6 +12,7 @@ class JDPC:
         self.pageCodes = []
         self.mobileUrls = []
         self.file = None
+        self.attrs = []
 
     #传入某一页的索引获得页面代码
     def getPage(self,pageIndex):
@@ -71,9 +72,38 @@ class JDPC:
         for item in content:
             self.file.write(item + '\n')
 
+    #获取手机商品页面
+    def getMobilePage(self,url):
+         try:
+            request = urllib2.Request(url)
+            response = urllib2.urlopen(request)
+            pageCode = response.read().decode('GBK')
+            return pageCode
+
+         except urllib2.URLError, e:
+            if hasattr(e,"reason"):
+                print u"连接失败，错误原因",e.reason
+                return None
+
+    #获取手机详细信息
+    def getMobileItem(self,mobilePage):
+       # mobilePage = self.getMobilePage("http://item.jd.com/2385655.html")
+        if not mobilePage:
+            print u"加载失败"
+            return None
+        pattern = re.compile('<title>(.*?)</title>',re.S)
+        items = re.findall(pattern,mobilePage)
+        print items[0]
+
 
 
 spider = JDPC()
-spider.getAllUrl()
-spider.setFileTitle("urls")
-spider.writeData(spider.mobileUrls)
+urls = []
+file = open("urls.txt")
+for line in file.readlines():
+    urls.append("http:"+line.strip("\n"))
+print urls[0]
+page = spider.getMobilePage(urls[0])
+
+
+spider.getMobileItem(page)
