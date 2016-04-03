@@ -3,6 +3,7 @@ import urllib
 import json
 import re
 import sys
+import time
 
 
 class JdPrice(object):
@@ -72,15 +73,18 @@ class JdPrice(object):
         获取商品的参数并保存到字典attrsDict中
         :return:
         """
-        attrsText_re = re.compile(r'product-detail-2.*?<table(.*?)</table>',re.S)
-        attrsText = re.findall(attrsText_re,self.html)[0].decode('gbk')
-        attrs_re = re.compile(r'<tr><td.*?">(.*?)</td><td>(.*?)</td></tr>',re.S)
-        attrs = re.findall(attrs_re,attrsText)
+        try:
+            attrsText_re = re.compile(r'product-detail-2.*?<table(.*?)</table>',re.S)
+            attrsText = re.findall(attrsText_re,self.html)[0].decode('gbk')
+            attrs_re = re.compile(r'<tr><td.*?">(.*?)</td><td>(.*?)</td></tr>',re.S)
+            attrs = re.findall(attrs_re,attrsText)
+        except IndexError,e:
+            print "error:" + e.message
+            attrs = ['错误','未知']
         for attr in attrs:
             key = attr[0]
             value = attr[1]
             self.attrsDict.update({key:value})
-
 
     def save_attrs(self):
         """
@@ -89,22 +93,36 @@ class JdPrice(object):
         """
         self.get_product_attrs()
         title = self.get_product_name()
-        self.file = open(title+'.txt','w+')
-        for k,v in self.attrsDict.iteritems():
-            self.file.write(k+':'+v+'\n')
-        self.file.close()
+        try:
+            self.file = open('products\\'+title+'.txt','w+')
+
+            for k,v in self.attrsDict.iteritems():
+                self.file.write(k+':'+v+'\n')
+            self.file.close()
+        except IOError,e:
+            print "写入异常，原因：" + e.message
 
 
 if __name__ == '__main__':
+    start = time.clock()
     reload(sys)
     sys.setdefaultencoding('utf-8')
     print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
-    url = 'http://item.jd.com/2174898.html'
-    jp = JdPrice(url)
-    print jp.get_product_name()
-    print jp.get_product_price()
-    print jp.url
-    jp.save_attrs()
+    i=0
+    file = open("urls.txt")
+
+    for line in file.readlines():
+        url = 'http:'+ line
+        jp = JdPrice(url)
+        jp.save_attrs()
+        i += 1
+        print i
+
+    print i
+    end = time.clock()
+    print end-start
+
+
 print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
 
 
