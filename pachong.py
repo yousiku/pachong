@@ -91,7 +91,7 @@ class JDPC:
         if not mobilePage:
             print u"加载失败"
             return None
-        pattern = re.compile('<title>(.*?)</title>',re.S)
+        pattern = re.compile('spec-n1.*?<img.*?alt="(.*?)"',re.S)
         items = re.findall(pattern,mobilePage)
         print items[0]
 
