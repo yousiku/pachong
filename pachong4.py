@@ -2,6 +2,7 @@
 import urllib
 import json
 import re
+import sys
 
 
 class JdPrice(object):
@@ -12,6 +13,8 @@ class JdPrice(object):
         self.url = url
         self._response = urllib.urlopen(self.url)
         self.html = self._response.read()
+        self.attrsDict = {}
+        self.file = None
 
     def get_product(self):
         """
@@ -64,6 +67,48 @@ class JdPrice(object):
             price = price_json['p']
         return price
 
+    def get_product_attrs(self):
+        """
+        获取商品的参数并保存到字典attrsDict中
+        :return:
+        """
+        attrsText_re = re.compile(r'product-detail-2.*?<table(.*?)</table>',re.S)
+        attrsText = re.findall(attrsText_re,self.html)[0].decode('gbk')
+        attrs_re = re.compile(r'<tr><td.*?">(.*?)</td><td>(.*?)</td></tr>',re.S)
+        attrs = re.findall(attrs_re,attrsText)
+        for attr in attrs:
+            key = attr[0]
+            value = attr[1]
+            self.attrsDict.update({key:value})
+
+
+    def save_attrs(self):
+        """
+        将获得的参数信息保存到txt文件
+        :return:
+        """
+        self.get_product_attrs()
+        title = self.get_product_name()
+        self.file = open(title+'.txt','w+')
+        for k,v in self.attrsDict.iteritems():
+            self.file.write(k+':'+v+'\n')
+        self.file.close()
+
+
+if __name__ == '__main__':
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+    print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
+    url = 'http://item.jd.com/2174898.html'
+    jp = JdPrice(url)
+    print jp.get_product_name()
+    print jp.get_product_price()
+    print jp.url
+    jp.save_attrs()
+print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
+
+
+'''
     def get_product_brand(self):
         """
         获取html中商品的品牌
@@ -144,23 +189,6 @@ class JdPrice(object):
         weight_re = re.compile(r'product-detail-2.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>(.*?)</td>',re.S)
         weight = re.findall(weight_re,self.html)[0]
         return weight
+'''
 
 
-
-if __name__ == '__main__':
-    print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
-    url = 'http://item.jd.com/2385655.html'
-    jp = JdPrice(url)
-    print jp.get_product_name()
-    print jp.get_product_price()
-    print jp.url
-    print jp.get_product_brand()
-    print jp.get_product_modelnumber()
-    print jp.get_product_system()
-    print jp.get_product_cpu()
-    print jp.get_product_ROM()
-    print jp.get_product_RAM()
-    print jp.get_product_size()
-    print jp.get_product_dpi()
-    print jp.get_product_weight()
-    print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
