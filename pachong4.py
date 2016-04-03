@@ -64,11 +64,103 @@ class JdPrice(object):
             price = price_json['p']
         return price
 
+    def get_product_brand(self):
+        """
+        获取html中商品的品牌
+        :return:
+        """
+        brand_re = re.compile(r'product-detail-2.*?<td>(.*?)</td>',re.S)
+        brand = re.findall(brand_re,self.html)[0]
+        return brand.decode('gbk')
+
+    def get_product_modelnumber(self):
+        """
+        获取html中商品型号
+        :return:
+        """
+        modelnumber_re = re.compile(r'product-detail-2.*?<td>.*?<td>(.*?)</td>',re.S)
+        modelnumber = re.findall(modelnumber_re,self.html)[0]
+        return modelnumber
+
+    def get_product_system(self):
+        """
+        获取html中商品系统
+        :return:
+        """
+        system_re = re.compile(r'product-detail-2.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>(.*?)</td>',re.S)
+        system = re.findall(system_re,self.html)[0]
+        return system
+
+    def get_product_cpu(self):
+        """
+        获取html中商品cpu
+        :return:
+        """
+        cpu_re = re.compile(r'product-detail-2.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>(.*?)</td>',re.S)
+        cpu = re.findall(cpu_re,self.html)[0]
+        return cpu.decode('gbk')
+
+    def get_product_ROM(self):
+        """
+        获取html中的机身内存
+        :return:
+        """
+        ROM_re = re.compile(r'product-detail-2.*?colspan.*?colspan.*?colspan.*?<td>(.*?)</td>',re.S)
+        ROM = re.findall(ROM_re,self.html)[0]
+        return ROM
+
+    def get_product_RAM(self):
+        """
+        获取html中的运行内存
+        :return:
+        """
+        RAM_re = re.compile(r'product-detail-2.*?colspan.*?colspan.*?colspan.*?<td>.*?<td>(.*?)</td>',re.S)
+        RAM = re.findall(RAM_re,self.html)[0]
+        return RAM
+
+    def get_product_size(self):
+        """
+        获取html中屏幕尺寸
+        :return:
+        """
+        size_re = re.compile(r'product-detail-2.*?colspan.*?colspan.*?colspan.*?colspan.*?<td>(.*?)</td>',re.S)
+        size = re.findall(size_re,self.html)[0]
+        return size.decode('gbk')
+
+    def get_product_dpi(self):
+        """
+        获取html中屏幕分辨率
+        :return:
+        """
+        dpi_re = re.compile(r'product-detail-2.*?colspan.*?colspan.*?colspan.*?colspan.*?<td>.*?<td>.*?<td>(.*?)</td>',re.S)
+        dpi = re.findall(dpi_re,self.html)[0]
+        return dpi
+
+    def get_product_weight(self):
+        """
+        获取机身重量
+        :return:
+        """
+        weight_re = re.compile(r'product-detail-2.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?colspan.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>.*?<td>(.*?)</td>',re.S)
+        weight = re.findall(weight_re,self.html)[0]
+        return weight
+
 
 
 if __name__ == '__main__':
     print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
     url = 'http://item.jd.com/2385655.html'
     jp = JdPrice(url)
+    print jp.get_product_name()
     print jp.get_product_price()
+    print jp.url
+    print jp.get_product_brand()
+    print jp.get_product_modelnumber()
+    print jp.get_product_system()
+    print jp.get_product_cpu()
+    print jp.get_product_ROM()
+    print jp.get_product_RAM()
+    print jp.get_product_size()
+    print jp.get_product_dpi()
+    print jp.get_product_weight()
     print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
