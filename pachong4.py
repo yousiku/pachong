@@ -145,17 +145,19 @@ class JdPrice(object):
         :return:
         """
         sql = "insert into keywords values(%s,%s,%s)"
-        
+
         #至关重要的一步，解决存入数据库时乱码，这一条语句相当于执行了以下3条：
         #SET character_set_client = utf8;
         #SET character_set_results = utf8;
         #SET character_set_connection = utf8;
-        self.db.cur.execute("set names 'utf8'")
+        #self.db.cur.execute("set names 'utf8'")
 
         self.db.cur.execute(sql,(self.get_product_skuid(),self.url,self.get_product_name()))
 
         self.db.cur.execute("select * from keywords;")
-        print self.db.cur.fetchone()
+        result = self.db.cur.fetchone()
+        for i in result:
+            print i.decode('utf-8')
         self.db.cur.close()
         self.db.conn.commit()
         self.db.conn.close()
@@ -169,6 +171,7 @@ class MysqlConn(object):
             user = 'root',
             passwd = '4QSJQCRC',
             db = 'jdproducts',
+            charset = 'utf8'
         )
         self.cur = self.conn.cursor()
 
