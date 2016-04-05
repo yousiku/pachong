@@ -68,7 +68,7 @@ class JdPrice(object):
         except IndexError,e:
             print 'get_product_name error:' + e.message
             return None
-        print name.decode('unicode_escape').encode('utf-8')
+        #print name.decode('unicode_escape').encode('utf-8')
         return name.decode('unicode_escape').encode('utf-8')#将其转换为中文
 
     def get_product_price(self):
@@ -144,6 +144,8 @@ class JdPrice(object):
         将id，url，关键字写入数据库
         :return:
         """
+        if not self.flag:
+            return None
         sql = "insert into keywords values(%s,%s,%s)"
 
         #至关重要的一步，解决存入数据库时乱码，这一条语句相当于执行了以下3条：
@@ -155,9 +157,6 @@ class JdPrice(object):
         self.db.cur.execute(sql,(self.get_product_skuid(),self.url,self.get_product_name()))
 
         self.db.cur.execute("select * from keywords;")
-        result = self.db.cur.fetchone()
-        for i in result:
-            print i.decode('utf-8')
         self.db.cur.close()
         self.db.conn.commit()
         self.db.conn.close()
@@ -182,24 +181,33 @@ if __name__ == '__main__':
 
 
     print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
+    """
     url = "http://item.jd.com/1861098.html"
     jd = JdPrice(url)
     jd.insert_tb_keywords()
-    """
+    url1 = "http://item.jd.com/2385655.html"
+    jd1 = JdPrice(url1)
+    jd1.insert_tb_keywords()
+"""
     i=0
     file = open("urls.txt")
 
     for line in file.readlines():
         url = 'http:'+ line
         jp = JdPrice(url)
-        jp.save_attrs()
-        i += 1
-        print i
+        try:
+            jp.insert_tb_keywords()
+            i += 1
+            print i
+        except Exception,e:
+            print e.message
+            pass
+
 
     print i
     end = time.clock()
-    print end-start
-"""
+    print "time:" , end-start
+
 
 
 print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
