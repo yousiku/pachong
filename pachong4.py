@@ -4,6 +4,9 @@ import json
 import re
 import sys
 import time
+import MySQLdb
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 
 class JdPrice(object):
@@ -13,6 +16,7 @@ class JdPrice(object):
     def __init__(self, url):
         self.url = url
         self.flag = True
+        self.db = MysqlConn()
         try:
             self._response = urllib.urlopen(self.url)
             self.html = self._response.read()
@@ -64,7 +68,8 @@ class JdPrice(object):
         except IndexError,e:
             print 'get_product_name error:' + e.message
             return None
-        return name.decode('unicode-escape')#将其转换为中文
+        print name.decode('unicode_escape').encode('utf-8')
+        return name.decode('unicode_escape').encode('utf-8')#将其转换为中文
 
     def get_product_price(self):
         """
@@ -98,7 +103,7 @@ class JdPrice(object):
         """
         try:
             attrsText_re = re.compile(r'product-detail-2.*?<table(.*?)</table>',re.S)
-            attrsText = re.findall(attrsText_re,self.html)[0].decode('gbk')
+            attrsText = re.findall(attrsText_re,self.html)[0].decode('utf-8')
             attrs_re = re.compile(r'<tr><td.*?">(.*?)</td><td>(.*?)</td></tr>',re.S)
             attrs = re.findall(attrs_re,attrsText)
         except IndexError,e:
@@ -119,14 +124,14 @@ class JdPrice(object):
             print "访问失败，跳过"
             return None
         if not self.get_product_attrs():
-            print "1"
             return None
         if not self.get_product_name():
-            print"2"
             return None
-        title = self.get_product_name()
+        if not self.get_product_skuid():
+            return None
+        title = self.get_product_skuid() + self.get_product_name()
         try:
-            self.file = open('products\\'+title+'.txt','w+')
+            self.file = open('mobiles\\'+title+'.txt','w+')
 
             for k,v in self.attrsDict.iteritems():
                 self.file.write(k+':'+v+'\n')
@@ -134,16 +139,50 @@ class JdPrice(object):
         except IOError,e:
             print "写入异常，原因：" + e.message
 
+    def insert_tb_keywords(self):
+        """
+        将id，url，关键字写入数据库
+        :return:
+        """
+        sql = "insert into keywords values(%s,%s,%s)"
+        
+        #至关重要的一步，解决存入数据库时乱码，这一条语句相当于执行了以下3条：
+        #SET character_set_client = utf8;
+        #SET character_set_results = utf8;
+        #SET character_set_connection = utf8;
+        self.db.cur.execute("set names 'utf8'")
+
+        self.db.cur.execute(sql,(self.get_product_skuid(),self.url,self.get_product_name()))
+
+        self.db.cur.execute("select * from keywords;")
+        print self.db.cur.fetchone()
+        self.db.cur.close()
+        self.db.conn.commit()
+        self.db.conn.close()
+
+
+class MysqlConn(object):
+    def __init__(self):
+        self.conn = MySQLdb.connect(
+            host = 'localhost',
+            port = 3306,
+            user = 'root',
+            passwd = '4QSJQCRC',
+            db = 'jdproducts',
+        )
+        self.cur = self.conn.cursor()
+
 
 if __name__ == '__main__':
     start = time.clock()
-    reload(sys)
-    sys.setdefaultencoding('utf-8')
-    url = "http://item.jd.com/1861098.html"
-    jp = JdPrice(url)
-    jp.save_attrs()
-    """
+
+
+
     print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
+    url = "http://item.jd.com/1861098.html"
+    jd = JdPrice(url)
+    jd.insert_tb_keywords()
+    """
     i=0
     file = open("urls.txt")
 
@@ -157,7 +196,7 @@ if __name__ == '__main__':
     print i
     end = time.clock()
     print end-start
-    """
+"""
 
 
 print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
