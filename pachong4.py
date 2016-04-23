@@ -103,9 +103,10 @@ class JdPrice(object):
         """
         try:
             attrsText_re = re.compile(r'product-detail-2.*?<table(.*?)</table>',re.S)
-            attrsText = re.findall(attrsText_re,self.html)[0].decode('utf-8')
+            attrsText = re.findall(attrsText_re,self.html)[0].decode('gbk')
             attrs_re = re.compile(r'<tr><td.*?">(.*?)</td><td>(.*?)</td></tr>',re.S)
             attrs = re.findall(attrs_re,attrsText)
+            print attrsText
         except IndexError,e:
             print "get_product_attrs error:" + e.message
             return None
@@ -113,7 +114,30 @@ class JdPrice(object):
             key = attr[0]
             value = attr[1]
             self.attrsDict.update({key:value})
+        print self.attrsDict
         return True
+
+    def get_attrs_new(self):
+        """
+        新版获取参数
+        :return:
+        """
+        try:
+            attrsText_re = re.compile(r'product-detail-2.*?<table(.*?)</table>',re.S)
+            attrsText = re.findall(attrsText_re,self.html)[0].decode('gbk')
+            attrs_re = re.compile(u'上市年份</td><td>(.*?)</td>.*?输入方式</td><td>(.*?)</td>.*?智能机</td><td>(.*?)</td>.*?操作系统版本</td><td>(.*?)</td>.*?机身内存</td><td>(.*?)</td>.*?屏幕尺寸</td><td>(.*?)</td>.*?分辨率</td><td>(.*?)</td>.*?GPS模块</td><td>(.*?)</td>.*?后置摄像头</td><td>(.*?)</td>.*?前置摄像头</td><td>(.*?)</td>.*?Wi-Fi</td><td>(.*?)</td>.*?蓝牙</td><td>(.*?)</td>.*?电池容量（mAh）</td><td>(.*?)</td>.*?机身尺寸（mm）</td><td>(.*?)</td>.*?机身重量（g）</td><td>(.*?)</td>',re.S)
+            attrs = re.findall(attrs_re,attrsText)
+        except IndexError,e:
+            print "get_attrs_new error:" + e.message
+            return None
+        print attrs[0][14]
+        if not self.flag:
+            return None
+        sql = "insert into webapp_details (skuid,listDate,inputType,isSmart,osVersion,mbROM,scrSize,fenbianlv,hvGPS,reCamera,prCamera,hvWiFi,hvBlue,battery,mbSize,mbWeight)values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        self.db.cur.execute(sql,(self.get_product_skuid(),attrs[0][0],attrs[0][1],attrs[0][2],attrs[0][3],attrs[0][4],attrs[0][5],attrs[0][6],attrs[0][7],attrs[0][8],attrs[0][9],attrs[0][10],attrs[0][11],attrs[0][12],attrs[0][13],attrs[0][14]))
+        self.db.cur.close()
+        self.db.conn.commit()
+        self.db.conn.close()
 
     def save_attrs(self):
         """
@@ -129,15 +153,15 @@ class JdPrice(object):
             return None
         if not self.get_product_skuid():
             return None
-        title = self.get_product_skuid() + self.get_product_name()
-        try:
-            self.file = open('mobiles\\'+title+'.txt','w+')
+        title = self.get_product_skuid()
+        #try:
+        self.file = open(title+'.txt','w+')
 
-            for k,v in self.attrsDict.iteritems():
-                self.file.write(k+':'+v+'\n')
-            self.file.close()
-        except IOError,e:
-            print "写入异常，原因：" + e.message
+        for k,v in self.attrsDict.iteritems():
+            self.file.write(k+':'+v+'\n')
+        self.file.close()
+    #except IOError,e:
+        #print "写入异常，原因：" + e.message
 
     def insert_tb_keywords(self):
         """
@@ -146,7 +170,7 @@ class JdPrice(object):
         """
         if not self.flag:
             return None
-        sql = "insert into keywords values(%s,%s,%s)"
+        sql = "insert into webapp_keywords (skuid,url,keywords,price)values(%s,%s,%s,%s)"
 
         #至关重要的一步，解决存入数据库时乱码，这一条语句相当于执行了以下3条：
         #SET character_set_client = utf8;
@@ -154,9 +178,9 @@ class JdPrice(object):
         #SET character_set_connection = utf8;
         #self.db.cur.execute("set names 'utf8'")
 
-        self.db.cur.execute(sql,(self.get_product_skuid(),self.url,self.get_product_name()))
+        self.db.cur.execute(sql,(self.get_product_skuid(),self.url,self.get_product_name(),float(self.get_product_price())))
 
-        self.db.cur.execute("select * from keywords;")
+        #self.db.cur.execute("select * from keywords;")
         self.db.cur.close()
         self.db.conn.commit()
         self.db.conn.close()
@@ -177,18 +201,6 @@ class MysqlConn(object):
 
 if __name__ == '__main__':
     start = time.clock()
-
-
-
-    print "+"*20+"welcome to 京东放养的爬虫"+"+"*20
-    """
-    url = "http://item.jd.com/1861098.html"
-    jd = JdPrice(url)
-    jd.insert_tb_keywords()
-    url1 = "http://item.jd.com/2385655.html"
-    jd1 = JdPrice(url1)
-    jd1.insert_tb_keywords()
-"""
     i=0
     file = open("urls.txt")
 
@@ -196,17 +208,26 @@ if __name__ == '__main__':
         url = 'http:'+ line
         jp = JdPrice(url)
         try:
-            jp.insert_tb_keywords()
-            i += 1
-            print i
+            jp.get_attrs_new()
+
         except Exception,e:
             print e.message
             pass
-
-
-    print i
+        i += 1
+        print i
     end = time.clock()
     print "time:" , end-start
+
+
+
+
+"""
+    url = "http://item.jd.com/1861098.html"
+    jd = JdPrice(url)
+    jd.get_attrs_new()
+"""
+
+
 
 
 

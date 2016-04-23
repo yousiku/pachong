@@ -1,0 +1,44 @@
+2G网络制式:移动2G/联通2G(GSM)/电信2G(CDMA)
+机身内存:32GB ROM
+操作系统:安卓（Android）
+前置摄像头:UltraPixel超像素
+3G网络制式:电信3G(CDMA2000)
+输入方式:触控
+GPS模块:支持
+运行内存:2GB RAM
+触摸屏:电容屏
+型号:826d
+音乐播放:支持
+上市年份:2015年
+电池类型:锂电池
+屏幕尺寸:5.5英寸
+用户界面:HTC Sense
+双卡机类型:双卡双待单通
+CPU频率:四核1.7GHz+四核1.0GHz
+颜色:臻珠白
+储存卡类型:MicroSD(TF)
+分辨率:1920×1080(FHD,1080P)
+WIFI热点:支持
+电池更换:不支持
+最大存储扩展:128GB
+智能机:是
+CPU型号:MSM8939
+闪光灯:LED补光灯
+操作系统版本:Android 5.0
+品牌:HTC
+录音:支持
+CPU核数:八核
+机身重量（g）:183
+视频播放:支持
+网络频率:主卡槽UIM 1：FDD LTE：2.1GHz/1.8GHz; TD-LTE：2.6GHz；1xEVDO：800MHz;（国际漫游情况下）WCDA：850MHz/1900MHz/2100MHz; GSM：1900MHz/1800MHz/900MHz/850MHz
+CPU品牌:Qualcomm 骁龙
+Wi-Fi:802.11 a/b/g/n（2.4GHz & 5GHz）
+机身尺寸（mm）:158x77.5x7.99
+运营商标志或内容:在外包装、在机身、在开机画面、在内置应用
+上市月份:5月
+4G网络制式:电信4G(FDD-LTE)
+自动对焦:支持
+后置摄像头:1300万像素
+SIM卡尺寸:Nano SIM卡 + Nano SIM卡
+蓝牙:Bluetooth 4.1
+电池容量（mAh）:2600mAh

@@ -1,0 +1,49 @@
+CPU说明:64 位架构的 A9 芯片，嵌入式 M9 运动协处理器
+机身内存:64GB ROM(全新状态 可用存储空间55.3GB)
+耳机接口:3.5mm
+操作系统:苹果（IOS）
+数据线:Lightning
+2G网络制式:移动2G/联通2G(GSM)/电信2G(CDMA)
+其他性能:全新 1200 万像素 iSight 摄像头，单个像素尺寸为 1.22 微米<br/>Live Photos<br/>Focus Pixels 自动对焦<br/>光学图像防抖功能 (仅限于 iPhone 6s Plus)<br/>True Tone 闪光灯<br/>全景模式 (高达 6300 万像素)<br/>自动 HDR 照片<br/>曝光控制<br/>连拍快照模式<br/>计时模式<br/>F/2.2 光圈<br/>五镜式镜头<br/>混合红外线滤镜<br/>背照式感光元件<br/>自动图像防抖功能<br/>优化的局部色调映射功能<br/>优化的降噪功能<br/>面部识别功能<br/>照片地理标记功能
+光线感应:支持
+3G网络制式:移动3G(TD-SCDMA)/联通3G(WCDMA)/电信3G（CDMA2000）
+理论待机时间（小时）:长达 16 天 (384 小时)
+输入方式:触控
+GPS模块:支持
+触摸屏:具备 3D Touch 技术的 Retina HD 显示屏<br/>1300：1 对比度 (标准)<br/>500 cd/m2 最大亮度 (标准)<br/>全 sRGB 标准<br/>支持广阔视角的双域像素<br/>正面采用防油渍防指纹涂层<br/>支持多种语言文字同时显示<br/>放大显示<br/>便捷访问功能
+型号:iPhone 6S Plus
+理论通话时间（小时）:使用 3G 网络时长达 24 小时
+音乐播放:AAC (8 至 320 Kbps)、Protected AAC (来自 iTunes Store)、HE-AAC、MP3 (8 至 320 Kbps)、MP3 VBR、Audible (格式 2、3、4，Audible Enhanced Audio、AAX 与 AAX+)、Apple Lossless、AIFF 与 WAV
+上市年份:2015年
+电池类型:锂电池
+屏幕尺寸:5.5英寸
+WIFI热点:支持
+NFC(近场通讯):支持
+颜色:银色
+储存卡类型:不支持
+PPI:401
+前置摄像头:500万像素
+其他:* 要识别你的 iPhone 的型号，请参阅 http：//support.apple.com/kb/HT3939。4G LTE Advanced 和 4G LTE 功能适用于特定国家或地区的特定运营商。有关 4G LTE 支持的详情，请联系你的运营商并查看 www.apple.com/iphone/LTE/。<br/>1. 1GB = 10 亿字节； 内置主内存容量 16GB / 64GB/ 128GB (依所购机型而定)；格式化之后的实际容量可能较小。<br/>2. 实际尺寸和重量依配置和制造工艺的不同可能有所差异。<br/>3. FaceTime 视频通话要求通话双方使用支持 FaceTime 的设备和无线网络连接。能否通过蜂窝网络使用此功能，取决于运营商政策；可能需要支付数据费用。<br/>4. Siri 可能仅支持部分语言或地区，并且功能可能因地区而异。需使用互联网接入。可能需要支付蜂窝网络数据费用。<br/>5. 所有电池性能信息取决于网络设置和许多其他因素，实际结果可能有所不同。电池充电周期次数有限，最终可能需由 Apple 服务提供商更换。 电池使用时间和充电周期次数依设置和使用情况的不同而可能有所差异。详情请参阅 http：//www.apple.com/cn/batteries/ 和 http：//www.apple.com/cn/iphone/battery.html。<br/>6. 2013 年 9 月 1 日或之后初次激活且符合条件，并兼容 iOS 9 的设备，可从 App Store 免费下载 iMovie、Pages、Numbers 和 Keynote。2014 年 9 月 1 日或之后初次激活且符合条件，并兼容 iOS 9 的设备，可从 App Store 免费下载 GarageBand。请参阅 www.apple.com/cn/ios/whats-new/ 了解兼容 iOS 9 的设备。下载 app 需要使用 Apple ID。<br/>7. 推荐使用无线宽带网络；可能需要付费。<br/>8. 基于接收方和 app 的自定义建议功能不适用于中文 (简体、繁体) 和日语。
+陀螺仪:支持
+电池更换:不支持
+智能机:是
+距离感应:支持
+闪光灯:True Tone 闪光灯
+操作系统版本:IOS
+品牌:Apple
+重力感应:支持
+自动对焦:Focus Pixels 自动对焦
+机身重量（g）:192
+视频播放:H.264 视频，最高可达 1080p，60 fps；High Profile level 4.2 和 AAC-LC 音频，最高可达 160 Kbps，48kHz；立体声音频，文件格式为 .m4v、.mp4 和 .mov；MPEG-4 视频，最高可达 2.5 Mbps，640 x 480 像素，30 fps；Simple Profile 和 AAC-LC 音频，每声道最高可达 160 Kbps，48kHz，立体声音频，文件格式为 .m4v, .mp4 和 .mov；Motion JPEG (M-JPEG)，最高可达 35 Mbps，1280 x 720 像素，30 fps；ulaw 音频和 PCM 立体声音频，文件格式为 .avi
+网络频率:FDD-LTE (频段 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29)<br/>TD-LTE (频段 38, 39, 40, 41)<br/>TD-SCDMA 1900 (F), 2000 (A)<br/>CDMA EV-DO Rev. A (800, 1700/2100, 1900, 2100 MHz)<br/>UMTS(WCDMA)/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)<br/>GSM/EDGE (850, 900, 1800, 1900 MHz)
+CPU品牌:苹果
+Wi-Fi:支持
+机身尺寸（mm）:158.2*77.9*7.3
+运营商标志或内容:无
+上市月份:9月
+4G网络制式:移动4G(TD-LTE)/联通4G(FDD-LTE)/电信4G(FDD-LTE)
+后置摄像头:1200万像素
+SIM卡尺寸:Nano SIM卡
+蓝牙:支持
+分辨率:1920 x 1080
+电池容量（mAh）:理论待机时间长达16天

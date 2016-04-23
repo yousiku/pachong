@@ -1,0 +1,64 @@
+2G网络制式:移动2G/联通2G(GSM)
+机身内存:32GB ROM
+耳机接口:3.5mm
+屏幕材质:康宁第三代大猩猩玻璃面板
+操作系统:安卓（Android）
+数据线:Micro USB 
+前置摄像头:800万像素，背照式摄像头，F2.2光圈，固定焦距
+光线感应:支持
+3G网络制式:移动3G(TD-SCDMA)/联通3G(WCDMA)
+理论待机时间（小时）:4G待机时间：约560小时； 3G待机时间：约540小时
+输入方式:触控
+GPS模块:支持
+运行内存:3GB RAM
+触摸屏:全贴合incell电容屏，支持多点触控
+型号:X3c50
+收音机:支持
+理论通话时间（小时）:3G通话时间：约24小时；  2G通话时间：约33小时
+音乐播放:支持
+上市年份:2015年
+OTG:支持
+电池类型:Li-Polymer 锂聚合物电池
+WIFI热点:支持
+双卡机类型:双卡双待单通
+CPU频率:2*A57 1.8GHz + 4*A53 1.4GHz with big.LITTLE technology
+颜色:白色
+储存卡类型:MicroSD(TF)
+PPI:401
+陀螺仪:支持
+屏幕色彩:1600万色 
+其他:双HIFI系统，杜比音效，3Mic系统，零延迟耳返，干湿声混音，VR分屏显示
+屏幕尺寸:5.5英寸
+最大存储扩展:128GB
+智能机:是
+CPU型号:Qualcomm Snapdragon808
+传感器类型:堆栈式CMOS
+闪存属性(DDR):LPDDR3
+数据业务:FDD-LTE/TDD-LTE/HSPA/WCDMA/TD-SCDMA/GSM/GPRS/EDGE
+电视播放:不支持
+闪光灯:后置双色温LED闪光灯
+变焦模式:数码变焦
+操作系统版本:VIBE UI（Android 5.1）
+品牌:联想（Lenovo）
+录音:支持
+重力感应:支持
+CPU核数:六核
+机身重量（g）:175g
+视频播放:支持
+网络频率:2GGSM：Band2,3,5,8 3GWCDMA：Band1,2,5,8 3G TD-SCDMA：Band34,39 4G FDD-LTE：Band1,3,7 4G TDD-LTE：Band38,39,40,41NW (2555MHz-2655MHz) CA：B3_C/B7_C/B38_C/B40_C/B41NW_C(Cat6)/B39+B41NW(_C Mean Intra CA)
+CPU品牌:高通（Qualcomm）
+GPU:Adreno 418@600MHz
+超大字体:支持
+Wi-Fi:802.11 a/b/g/n/ac，2.4GHz/5GHz
+电池更换:不支持
+机身尺寸（mm）:154 x 76.5 x 9.3
+运营商标志或内容:无
+上市月份:11月
+4G网络制式:移动/联通4G(TD-LTE)/联通4G（FDD-LTE）
+自动对焦:PDAF相位检测快速对焦
+后置摄像头:2100万像素堆栈式（第三代BSI）摄像头，支持PDAF相位检测快速对焦，6P镜头组，F2.0光圈
+SIM卡尺寸:三合二卡槽。卡槽1：Nano SIM卡；卡槽2：Nano SIM卡或Micro SD卡。默认移动卡为4G卡槽；不支持热插拔，插拔卡托后需重启手机
+蓝牙:BT4.1，支持BT4.1+LE
+照片分辨率:后置 21M 最大支持5344x4008  ，前置 8M最大支持 3264x2448
+分辨率:1920×1080(FHD,1080P)
+电池容量（mAh）:3600mAh

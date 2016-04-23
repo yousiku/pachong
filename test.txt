@@ -1,0 +1,1303 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+    <title>【三星S7 edge】三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机【行情 报价 价格 评测】-京东</title>
+    <meta name="keywords" content="SAMSUNGS7 edge,三星S7 edge,三星S7 edge报价,SAMSUNGS7 edge报价"/>
+    <meta name="description" content="【三星S7 edge】京东JD.COM提供三星S7 edge正品行货，全国价格最低，并包括SAMSUNGS7 edge网购指南，以及三星S7 edge图片、S7 edge参数、S7 edge评论、S7 edge心得、S7 edge技巧等信息，网购三星S7 edge上京东,放心又轻松" />
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=//item.m.jd.com/product/2385655.html">
+    <meta http-equiv="mobile-agent" content="format=html5; url=//item.m.jd.com/product/2385655.html">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <link rel="canonical" href="//item.jd.com/2385655.html"/>
+        <link rel="dns-prefetch" href="//misc.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//static.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img10.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img11.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img13.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img12.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img14.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img30.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//pi.3.cn"/>
+    <link rel="dns-prefetch" href="//ad.3.cn"/>
+    <link rel="dns-prefetch" href="//st.3.cn"/>
+    <link rel="dns-prefetch" href="//d.3.cn"/>
+    <link rel="dns-prefetch" href="//c.3.cn"/>
+    <link rel="dns-prefetch" href="//d.jd.com"/>
+    <link rel="dns-prefetch" href="//x.jd.com"/>
+    <link rel="dns-prefetch" href="//wl.jd.com"/>
+                <link type="text/css" rel="stylesheet"  href="//misc.360buyimg.com/jdf/1.0.0/unit/??ui-base/1.0.0/ui-base.css,shortcut/2.0.0/shortcut.css,global-header/1.0.0/global-header.css,myjd/2.0.0/myjd.css,nav/2.0.0/nav.css,shoppingcart/2.0.0/shoppingcart.css,global-footer/1.0.0/global-footer.css,service/1.0.0/service.css"/>
+                        <link rel="stylesheet" type="text/css" href="//static.360buyimg.com/item/main/1.0.14/??/widget/common/common.css,/widget/sprite/sprite.css,/widget/main/main.css,/widget/contrast/contrast.css,/widget/combineShare/combineShare.css,/widget/itemInfo/itemInfo.css,/widget/extInfo/extInfo.css,/widget/promiseIcon/promiseIcon.css,/widget/popScore/popScore.css,/widget/preview/preview.css,/widget/fitting/fitting.css,/widget/ui-box/ui-box.css,/widget/ui-star/ui-star.css,/widget/ui-tag/ui-tag.css,/widget/detailContent/detailContent.css,/widget/ui-page/ui-page.css,/widget/consult/consult.css,/widget/discuss/discuss.css,/widget/yourFind/yourFind.css" source="widget"/>
+    
+    <script>
+       var pageConfig = {
+            compatible: true,
+            product: {
+                skuid: 2385655,
+                name: '\u4e09\u661f\u0020\u0047\u0061\u006c\u0061\u0078\u0079\u0020\u0053\u0037\u0020\u0065\u0064\u0067\u0065\uff08\u0047\u0039\u0033\u0035\u0030\uff09\u0033\u0032\u0047\u7248\u0020\u94c2\u5149\u91d1\u79fb\u52a8\u8054\u901a\u7535\u4fe1\u0034\u0047\u624b\u673a\u0020\u53cc\u5361\u53cc\u5f85\u0020\u9a81\u9f99\u0038\u0032\u0030\u624b\u673a',
+                skuidkey:'AD6DE7D30C9E07B6921ABDF371DF614D',
+                href: '//item.jd.com/2385655.html',
+                src: 'jfs/t2068/298/2448145915/157953/7be197df/56d51a42Nd86f1c8e.jpg',
+                cat: [9987,653,655],
+                brand: 15127,
+                pType: 1,
+                isClosePCShow: false,
+                venderId:1000003443,
+                shopId:'1000003443',
+                                commentVersion:'9321',                 specialAttrs:["isFlashPurchase-0","isPickingGoods-0","isHaveYB","packType","IsNewGoods","isSelfService-0","isCanUseDQ-0","isCanUseJQ-1","isWeChatStock-31","HYKHSP-0","is7ToReturn-1","isNSNGgoods-0","YYSLLZC-0"],
+                recommend : [0,1,2,3,4,5,6,7,8,9],
+                easyBuyUrl:"//easybuy.jd.com/skuDetail/newSubmitEasybuyOrder.action",
+                qualityLife: "//c.3.cn/qualification/info?skuId=2385655&pid=2385655&catId=655",
+                phoneNetwork:['移动4G/联通4G/电信4G','移动4G','联通4G','电信4G'],                colorSize: [{"Color":"雪晶白","SkuId":2384568,"Size":"S7edge全网通"},{"Color":"钛泽银","SkuId":2385669,"Size":"S7edge全网通"},{"Color":"铂光金","SkuId":2385655,"Size":"S7edge全网通"},{"Color":"星钻黑","SkuId":2385677,"Size":"S7edge全网通"},{"Color":"钛泽银","SkuId":2384564,"Size":"S7移动定制4G"},{"Color":"铂光金","SkuId":2385679,"Size":"S7移动定制4G"},{"Color":"雪晶白","SkuId":2384570,"Size":"S7移动定制4G"},{"Color":"星钻黑","SkuId":2385671,"Size":"S7移动定制4G"},{"Color":"钛泽银","SkuId":2384572,"Size":"S7全网通"},{"Color":"铂光金","SkuId":2385681,"Size":"S7全网通"},{"Color":"雪晶白","SkuId":2384574,"Size":"S7全网通"},{"Color":"星钻黑","SkuId":2384566,"Size":"S7全网通"}],                warestatus: 1,                                 tips: [{"order":1,"tip":"本商品不能使用 东券"},{"order":3,"tip":"支持7天无理由退货"}],                isOtc: false,                isBookMvd4Baby: false,                                desc: '//d.3.cn/desc/2385655?cdn=2',                foot: '//d.3.cn/footer?type=common_config2'
+            }
+        };
+                        try {
+                        function is_sort_black_list() {
+              var jump_sort_list = {"6881":3,"1195":3,"10011":3,"6980":3,"12360":3};
+              if(jump_sort_list['9987'] == 1 || jump_sort_list['653']==2 || jump_sort_list['655']==3) {
+                return true;
+              }
+              return false;
+            }
+
+            function jump_mobile() {
+              if(is_sort_black_list()) {
+                return;
+              }
+
+              var userAgent = navigator.userAgent || "";
+              userAgent = userAgent.toUpperCase();
+                            if(userAgent == "" || userAgent.indexOf("PAD") > -1) {
+                  return;
+              }
+
+                            if(window.location.hash == '#m') {
+                var exp = new Date();
+                exp.setTime(exp.getTime() + 30 * 24 * 60 * 60 * 1000);
+                document.cookie = "pcm=1;expires=" + exp.toGMTString() + ";path=/;domain=jd.com";
+                                window.showtouchurl = true;
+                return;
+              }
+
+                            if (/MOBILE/.test(userAgent) && /(MICROMESSENGER|QQ\/)/.test(userAgent)) {
+                  window.location.href = "//item.m.jd.com/product/2385655.html";
+                  return;
+              }
+
+                            var jump = true;
+              var cook = document.cookie.match(/(^| )pcm=([^;]*)(;|$)/);
+              if(cook && cook.length > 2 && unescape(cook[2]) == "1") {
+                jump = false;
+              }
+              var mobilePhoneList = ["IOS","IPHONE","ANDROID","WINDOWS PHONE"];
+              for(var i=0, len=mobilePhoneList.length; i<len; i++) {
+                if(userAgent.indexOf(mobilePhoneList[i]) > -1) {
+                  if(jump) {
+                    window.location.href = "//item.m.jd.com/product/2385655.html";
+                  } else {
+                                        window.showtouchurl = true;
+                  }
+                  break;
+                }
+              }
+            }
+            jump_mobile();
+        } catch(e) {}    </script>
+    <script src="//misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js"></script>
+    <script>
+        seajs.config({
+            paths: {
+                'MISC' : '//misc.360buyimg.com',
+                'APP_ROOT' : '//static.360buyimg.com/item/main/1.0.14',
+                'WDG_ROOT' : '//static.360buyimg.com/item/main/1.0.14/widget',
+                'JDF_UI'   : '//misc.360buyimg.com/jdf/1.0.0/ui',
+                'JDF_UNIT' : '//misc.360buyimg.com/jdf/1.0.0/unit'
+            }
+        });
+    </script>
+</head>
+<body version="140120" class="cat-1-9987 cat-2-653 cat-3-655 item-2385655 JD JD-1">
+        <div id="shortcut-2014">
+    <div class="w">
+        <ul class="fl" clstag="shangpin|keycount|topitemnormal|a01">
+            <li class="dorpdown" id="ttbar-mycity"></li>
+        </ul>
+        <ul class="fr">
+            <li class="fore1" id="ttbar-login" clstag="shangpin|keycount|topitemnormal|a02">
+                <a target="_blank" href="javascript:login();" class="link-login">你好，请登录</a>
+                &nbsp;&nbsp;
+                <a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore2"  clstag="shangpin|keycount|topitemnormal|a03">
+                <div class="dt">
+                    <a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+                </div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore3 dorpdown" id="ttbar-myjd" clstag="shangpin|keycount|topitemnormal|b04">
+                <div class="dt cw-icon">
+                    <i class="ci-right"><s>◇</s></i>
+                    <a target="_blank" href="//home.jd.com/">我的京东</a>
+                </div>
+                <div class="dd dorpdown-layer"></div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore4" clstag="shangpin|keycount|topitemnormal|a04">
+                <div class="dt">
+                    <a target="_blank" href="//vip.jd.com/">京东会员</a>
+                </div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore5"  clstag="shangpin|keycount|topitemnormal|a05">
+                <div class="dt">
+                    <a target="_blank" href="//b.jd.com/">企业采购</a>
+                </div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore6 dorpdown" id="ttbar-apps" clstag="shangpin|keycount|topitemnormal|a06">
+                <div class="dt cw-icon">
+                    <i class="ci-left"></i>
+                    <i class="ci-right"><s>◇</s></i>
+                    <a target="_blank" href="//app.jd.com/">手机京东</a>
+                </div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore7 dorpdown" id="ttbar-atte" clstag="shangpin|keycount|topitemnormal|a09">
+                <div class="dt cw-icon">
+                    <i class="ci-right"><s>◇</s></i>关注京东
+                </div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore8 dorpdown" id="ttbar-serv" clstag="shangpin|keycount|topitemnormal|a07">
+                <div class="dt cw-icon">
+                    <i class="ci-right"><s>◇</s></i>客户服务
+                </div>
+                <div class="dd dorpdown-layer"></div>
+            </li>
+            <li class="spacer"></li>
+            <li class="fore9 dorpdown" id="ttbar-navs" clstag="shangpin|keycount|topitemnormal|a08">
+                <div class="dt cw-icon">
+                    <i class="ci-right"><s>◇</s></i>网站导航
+                </div>
+                <div class="dd dorpdown-layer"></div>
+            </li>
+        </ul>
+        <span class="clr"></span>
+    </div>
+</div><!-- #shortcut-2014 -->        <div class="w">
+    <div id="logo-2014">
+        <a href="//www.jd.com/" clstag="shangpin|keycount|topitemnormal|b01" class="logo">京东</a>
+    </div>
+    <div id="search-2014">
+        <ul id="shelper" class="hide"></ul>
+        <div class="form">
+            <input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s" class="text" clstag="shangpin|keycount|topitemnormal|b02" />
+            <button onclick="search('key');return false;" class="button cw-icon" clstag="shangpin|keycount|topitemnormal|b03"><i></i>搜索</button>
+        </div>
+    </div>
+    <div id="settleup-2014" class="dorpdown">
+        <div class="cw-icon">
+            <i class="ci-left"></i>
+            <i class="ci-right">&gt;</i>
+            <a target="_blank" clstag="shangpin|keycount|topitemnormal|b05" href="//cart.jd.com/cart/cart.html">我的购物车</a>
+        </div>
+        <div class="dorpdown-layer">
+            <div class="spacer"></div>
+            <div id="settleup-content">
+                <span class="loading"></span>
+            </div>
+        </div>
+    </div>
+    <div id="hotwords"></div>
+    <span class="clr"></span>
+</div>
+
+<div id="nav-2014">
+    <div class="w">
+        <div class="w-spacer"></div>
+        <div id="categorys-2014" class="dorpdown" data-type="default">
+            <div class="dt" clstag="shangpin|keycount|topitemnormal|c01">
+                <a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+            </div>
+        </div>
+        <div id="navitems-2014">
+            <ul id="navitems-group1">
+                <li class="fore1" clstag="shangpin|keycount|topitemnormal|c03" id="nav-home">
+                    <a href="//www.jd.com/">首页</a>
+                </li>
+                <li class="fore2" clstag="shangpin|keycount|topitemnormal|c04" id="nav-fashion">
+                    <a target="_blank" href="//channel.jd.com/fashion.html">服装城</a>
+                </li>
+                <li class="fore3" clstag="shangpin|keycount|topitemnormal|c05" id="nav-beauty">
+                    <a target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+                </li>
+                <li class="fore4" clstag="shangpin|keycount|topitemnormal|c06" id="nav-chaoshi">
+                    <a target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+                </li>
+                <li class="fore5" clstag="shangpin|keycount|topitemnormal|c07" id="nav-jdww">
+                    <a target="_blank" href="//www.jd.hk/">全球购</a>
+                </li>
+            </ul>
+            <div class="spacer"></div>
+            <ul id="navitems-group2">
+                <li class="fore1" clstag="shangpin|keycount|topitemnormal|c08" id="nav-red">
+                    <a target="_blank" href="//red.jd.com/">闪购</a>
+                </li>
+                <li class="fore2" clstag="shangpin|keycount|topitemnormal|c09" id="nav-tuan">
+                    <a target="_blank" href="//tuan.jd.com/">团购</a>
+                </li>
+                <li class="fore3" clstag="shangpin|keycount|topitemnormal|c10" id="nav-auction">
+                    <a target="_blank" href="//paimai.jd.com/">拍卖</a>
+                </li>
+                <li class="fore4" clstag="shangpin|keycount|topitemnormal|c11" id="nav-jr">
+                    <a target="_blank" href="//jr.jd.com/">金融</a>
+                </li>
+            </ul>
+        </div>
+        <div id="treasure"></div>
+        <span class="clr"></span>
+    </div>
+</div><!-- #nav-2014 -->
+<script>
+    setTimeout(function () {
+        seajs.use('//misc.360buyimg.com/jdf/1.0.0/unit/globalInit/2.0.0/globalInit', function(globalInit){
+            globalInit();
+        });
+    }, 500);
+</script>
+<div id="root-nav">
+    <div class="w">
+        <div class="breadcrumb">
+          <strong><a href='//shouji.jd.com' clstag="shangpin|keycount|product|mbNav-1">手机</a></strong><span>&nbsp;&gt;&nbsp;<a href='//channel.jd.com/shouji.html' clstag="shangpin|keycount|product|mbNav-2">手机通讯</a>&nbsp;&gt;&nbsp;<a href='//list.jd.com/list.html?cat=9987,653,655' clstag="shangpin|keycount|product|mbNav-3">手机</a>&nbsp;&gt;&nbsp;</span>
+<span><a href='//www.jd.com/pinpai/655-15127.html' clstag="shangpin|keycount|product|mbNav-4">三星（SAMSUNG）</a>&nbsp;&gt;&nbsp;<a href='//item.jd.com/2385655.html'>三星S7 edge</a></span>
+        </div>
+    </div>
+</div>
+
+<div id="p-box">
+        <div class="w">
+        <div id="seo-banner" class="m m2 hide"></div>
+    </div>
+        <div class="w">
+        <div id="search-result" class="m m2 hide" clstag="shangpin|keycount|product|exrs"></div>
+    </div>
+
+    <div class="w">
+        <div id="product-intro" class="m-item-grid clearfix">
+                        <div id="preview">
+                <div id="spec-n1" class="jqzoom" onclick="window.open('//item.jd.com/bigimage.aspx?id=2385655')" clstag="shangpin|keycount|product|mainpic_1">
+                    <img data-img="1" width="350" height="350" src="//img10.360buyimg.com/n1/jfs/t2068/298/2448145915/157953/7be197df/56d51a42Nd86f1c8e.jpg" alt="三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机"/>
+                                                        </div>
+                                                <div id="spec-list" clstag="shangpin|keycount|product|lunbotu_1">
+                    <a href="javascript:;" class="spec-control" id="spec-forward"></a>
+                    <a href="javascript:;" class="spec-control" id="spec-backward"></a>
+                    <div class="spec-items">
+                                                                        <ul class="lh">
+                                                                                                              <li><img class='img-hover' alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2068/298/2448145915/157953/7be197df/56d51a42Nd86f1c8e.jpg' data-url='jfs/t2068/298/2448145915/157953/7be197df/56d51a42Nd86f1c8e.jpg' data-img='1' width='50' height='50'></li>
+                                                                                      <li><img alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2437/128/1687178395/117431/bcc190c1/56d3fcbaNb2963d21.jpg' data-url='jfs/t2437/128/1687178395/117431/bcc190c1/56d3fcbaNb2963d21.jpg' data-img='1' width='50' height='50'></li>
+                                                                                      <li><img alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2467/222/2263160610/95597/927b8a2f/56d3eafeNdecebeb6.jpg' data-url='jfs/t2467/222/2263160610/95597/927b8a2f/56d3eafeNdecebeb6.jpg' data-img='1' width='50' height='50'></li>
+                                                                                      <li><img alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2080/21/2257078431/96477/382c6e97/56d3eb02Nb055b53a.jpg' data-url='jfs/t2080/21/2257078431/96477/382c6e97/56d3eb02Nb055b53a.jpg' data-img='1' width='50' height='50'></li>
+                                                                                      <li><img alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2158/38/1697678150/97159/36a8cf41/56d3eb07N39d7ad82.jpg' data-url='jfs/t2158/38/1697678150/97159/36a8cf41/56d3eb07N39d7ad82.jpg' data-img='1' width='50' height='50'></li>
+                                                                                      <li><img alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2098/50/1648358282/37073/9563d5a4/56d3eb0eN8f4e32b3.jpg' data-url='jfs/t2098/50/1648358282/37073/9563d5a4/56d3eb0eN8f4e32b3.jpg' data-img='1' width='50' height='50'></li>
+                                                                                      <li><img alt='三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机' src='//img10.360buyimg.com/n5/jfs/t2326/244/2276399068/36321/e2cf9206/56d3eb11Neea58395.jpg' data-url='jfs/t2326/244/2276399068/36321/e2cf9206/56d3eb11Neea58395.jpg' data-img='1' width='50' height='50'></li>
+                                                                            </ul>
+                                            </div>
+                </div>
+                                                <div id="short-share">
+                    <div class="fl"><span>商品编号：</span><span>2385655</span></div>
+                    <a id="choose-btn-coll" class="choose-btn-coll" href="#none" data-id="2385655" clstag="shangpin|keycount|product|guanzhushangpin_1"><b></b><em id="">关注商品</em></a>
+                    <a id="share-list" class="share-list" href="#none" clstag="shangpin|keycount|product|share_1">
+                      <b></b><em>分享</em>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="m-item-inner">
+              <div id="itemInfo">
+                                    <div id="name">
+                      <h1>三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机</h1>
+                      <div id="p-ad" class="p-ad J-ad-2385655" clstag="shangpin|keycount|product|slogan"></div>
+                      <div id="p-ad-phone" class="p-ad"></div>
+                                                              </div>
+                                                                              <div id="compare">
+                      <a href="#none" id="comp_2385655" data-sku="2385655" class="J_contrast btn-compare" clstag="shangpin|keycount|product|jiaruduibi"><span>对比</span></a>
+                    </div>
+                    
+                                        
+                                        <div id="summary">
+                                                <div class="summary-info J-summary-info clearfix">
+                            <div id="comment-count" class="comment-count item fl" clstag="shangpin|keycount|product|pingjiabtn_1">
+                                <p class="comment">累计评价</p>
+                                <a class="count J-comm-2385655" href="#comment">0</a>
+                            </div>
+                                                    </div>
+                        <div id="summary-price">
+                            <div class="dt">京 东 价：</div>
+                            <div class="dd">
+                                <strong class="p-price" id="jd-price"></strong>
+                                                                                                <a data-type="1" data-sku="2385655" id="notice-downp" class="J-notify-1" href="#none" clstag="shangpin|keycount|product|jiangjia_1">(降价通知)</a>
+                                                            </div>
+                        </div>
+                                                <div id="J-summary-top" class="summary-top" clstag="shangpin|keycount|product|cuxiao_1">
+                            <div id="summary-promotion" class="hide">
+                                <div class="dt">促销信息：</div>
+                                <div class="dd J-prom-wrap p-promotions-wrap">
+                                    <div class="p-promotions">
+                                        <ins id="prom-mbuy" data-url="http://cd.jd.com/qrcode?skuId=2385655&location=1&isWeChatStock=31"></ins>
+                                        <ins id="prom-gift" clstag="shangpin|keycount|product|zengpin_1"></ins>
+                                        <ins id="prom"></ins>
+                                        <ins id="prom-one"></ins>
+                                        <ins id="prom-phone"></ins>
+                                        <ins id="prom-phone-jjg"></ins>
+                                        <ins id="prom-tips"></ins>
+                                        <ins id="prom-quan"></ins>
+                                        <div class="J-prom-more view-all-promotions">
+                                            <span class="prom-sum">共<em class="prom-number J-prom-count"></em>项促销</span>
+                                            <a href="#none" class="view-link"><i class="i-arrow"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                        </div>
+                                                <div id="summary-quan" class="li p-choose hide" clstag="shangpin|keycount|product|lingquan"></div>
+
+
+                                                <div id="summary-support" class="li hide">
+                            <div class="dt">支&#x3000;&#x3000;持：</div>
+                            <div class="dd">
+                                <ul class="choose-support lh"></ul>
+                            </div>
+                        </div>
+                                                <div id="summary-stock" clstag="shangpin|keycount|product|quyuxuanze_1" >
+                            <div class="dt">配 送 至：</div>
+                            <div class="dd clearfix">
+                                <div id="store-selector">
+                                    <div class="text"><div></div><b></b></div>
+                                    <div class="content">
+                                        <span class="clr"></span>
+                                    </div>
+                                    <div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+                                </div>                                 <div id="store-prompt"></div>                            </div>
+                            <span class="clr"></span>
+                        </div>
+                        <div id="summary-service" clstag="shangpin|keycount|product|fuwu_1">
+                            <div class="dt">服&#x3000;&#x3000;务：</div>
+                            <div class="dd"></div>
+                        </div>
+                    </div>
+                                        <div id="choose" class="clearfix p-choose-wrap">
+                                                    <div id="choose-color" class="li choose-color-shouji p-choose">
+                                <div class="dt">选择颜色：</div>
+                                <div class="dd">
+                                                                <div class="item"><b></b><a href="//item.jd.com/2385655.html" title="铂光金" clstag="shangpin|keycount|product|yanse-铂光金"><img data-img="1" src="//img10.360buyimg.com/n9/jfs/t2068/298/2448145915/157953/7be197df/56d51a42Nd86f1c8e.jpg" width="25" height="25" alt="铂光金"><i>铂光金</i></a></div>
+                                                                <div class="item"><b></b><a href="//item.jd.com/2384568.html" title="雪晶白" clstag="shangpin|keycount|product|yanse-雪晶白"><img data-img="1" src="//img13.360buyimg.com/n9/jfs/t2047/117/1692918934/131329/91bbb71d/56d51a5aNdbf55744.jpg" width="25" height="25" alt="雪晶白"><i>雪晶白</i></a></div>
+                                                                <div class="item"><b></b><a href="//item.jd.com/2385669.html" title="钛泽银" clstag="shangpin|keycount|product|yanse-钛泽银"><img data-img="1" src="//img14.360buyimg.com/n9/jfs/t2101/332/1682899980/147266/37911157/56d51a79Ned116ae9.jpg" width="25" height="25" alt="钛泽银"><i>钛泽银</i></a></div>
+                                                                <div class="item"><b></b><a href="//item.jd.com/2385677.html" title="星钻黑" clstag="shangpin|keycount|product|yanse-星钻黑"><img data-img="1" src="//img12.360buyimg.com/n9/jfs/t1903/181/1693390181/136888/fcff4101/56d51a98N3a630a40.jpg" width="25" height="25" alt="星钻黑"><i>星钻黑</i></a></div>
+                                                                </div>
+                            </div>
+                                                                            <div id="choose-version" class="li p-choose">
+                                <div class="dt">选择版本：</div>
+                                <div class="dd">
+                                                                <div class="item"><b></b><a href="//item.jd.com/2384572.html" title="S7全网通" clstag="shangpin|keycount|product|banben-S7全网通">S7全网通</a></div>
+                                                                <div class="item"><b></b><a href="//item.jd.com/2384564.html" title="S7移动定制4G" clstag="shangpin|keycount|product|banben-S7移动定制4G">S7移动定制4G</a></div>
+                                                                <div class="item"><b></b><a href="//item.jd.com/2384568.html" title="S7edge全网通" clstag="shangpin|keycount|product|banben-S7edge全网通">S7edge全网通</a></div>
+                                                                </div>
+                            </div>
+                                                                                                                            <div id="choose-type" class="li p-choose hide"></div>
+                            <div id="choose-type-hy" class="li p-choose hide"></div>
+                            <div id="choose-type-suit" class="li p-choose hide" clstag="shangpin|keycount|product|hytc">
+                                <div class="dt">合约套餐：</div>
+                                <div class="dd">
+                                    <div class="item J-suit-trigger" clstag="shangpin|keycount|product|taocanleixing">
+                                        <b></b>
+                                        <a href="#none" title="选择套餐与资费">选择套餐与资费</a>
+                                    </div>
+                                    <div class="fl" style="padding-top:5px;">
+                                        <span class="J-suit-tips hide">请选择套餐内容</span>
+                                        <span class="J-suit-resel J-suit-trigger hl_blue hide" href="#none">重选</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="btype-tip" class="hide">&#x3000;您选择的地区暂不支持合约机销售！</div>
+                                                                                                                                                <div id="choose-service" class="li hide"><div class="dt"></div><div class="dd"></div></div>
+                                                                        <div id="choose-additional" class="li choose-additional hide"></div>
+                        
+                                                <div id="choose-result"></div>
+                                                                        <div id="choose-baitiao" class="li p-choose choose-baitiao hide"></div>
+                        
+                        
+                                                <div id="choose-btns" class="li">
+                                                        <div class="choose-amount fl " clstag="shangpin|keycount|product|goumaishuliang_1">
+                                <div class="wrap-input">
+                                    <a class="btn-reduce" href="javascript:;" onclick="setAmount.reduce('#buy-num')">-</a>
+                                    <a class="btn-add" href="javascript:;" onclick="setAmount.add('#buy-num')">+</a>
+                                    <input class="text" id="buy-num" value="1" onkeyup="setAmount.modify('#buy-num');">
+                                </div>
+                            </div>
+                                                                                    <a class="btn-special1 btn-lg btn-disable" style="display:none;" id="choose-btn-qiang" href="#none" clstag="shangpin|keycount|product|抢购_1">抢购</a>
+                                                        <div class="btn hide" id="choose-btn-gift">
+                                <a href="//cart.gift.jd.com/cart/addGiftToCart.action?pid=2385655&pcount=1&ptype=1" class="btn-gift" clstag="shangpin|keycount|product|选作礼物购买_1"><b></b>选作礼物购买</a>
+                            </div>
+                                                        <a href="#none" id="choose-btn-hy" class="btn-special1 btn-lg hide" style="display:none;" clstag="shangpin|keycount|product|选择号码和套餐_1">选择号码和套餐</a>
+                                                        <div class="btn" id="choose-btn-append" clstag="shangpin|keycount|product|加入购物车_1">
+                                <a class="btn-append " id="InitCartUrl" href="//cart.jd.com/gate.action?pid=2385655&pcount=1&ptype=1">加入购物车<b></b></a>
+                            </div>
+                                                                                                                                                                                                    <div class="btn hide" id="choose-btn-easybuy" clstag="shangpin|keycount|product|easybuy_1"></div>
+                                                                                                                <a id="choose-btn-dbt" href="#none" class="btn-special2 btn-lg" style="display:none;" clstag="shangpin|keycount|product|dabaitiaobutton_9987_653_655">打白条</a>
+                                                                                                                                            <div class="btn hide" id="choose-btn-notice" clstag="shangpin|keycount|product|daohuo_1">
+                                <a id="notify-btn" class="btn-notice J-notify-2" data-type="2" data-sku="2385655" href="#none">到货通知<b></b></a>
+                            </div>
+                                                                                                                                        </div>
+                        <div class="clr"></div>
+                                                                        <div id="summary-tips" class="li hide" clstag="shangpin|keycount|product|wenxintishi_1" style="display: none">
+                            <div class="dt">温馨提示：</div>
+                            <div class="dd">
+                                <ol class="tips-list clearfix"></ol>
+                            </div>
+                        </div>
+                                                <div id="fuka" class="fuka hide"></div>
+                    </div>                                </div>
+            </div>
+                                    <div class="m-item-ext J-ext-trigger">
+                <div class="extra-infor-show-trigger">
+    <i class="i-arrow"></i> <span class="text">更多商品信息</span>
+</div>
+
+<div class="extInfo" id="extInfo">
+                        <div class="brand-logo" clstag="shangpin|keycount|product|dianpulogo">
+            <a href='//samsung.jd.com' target='_blank'>
+                <img src='//img30.360buyimg.com/popshop/jfs/t979/358/640878703/9935/b31c3dda/55360ef6Na0816ec5.jpg' title='三星手机旗舰店'/>
+            </a>
+        </div>
+                <div class="seller-infor">
+                    <a class="name" href="//samsung.jd.com" target="_blank" title="三星手机旗舰店" clstag="shangpin|keycount|product|dianpuname">三星手机旗舰店</a>
+                <em class="u-jd">京东自营</em>
+    </div>
+
+<div class="customer-service clearfix">
+        <div class="service">
+        <span id="J-im-btn" clstag="shangpin|keycount|product|dongdong_1"></span>
+        <span id="J-jimi-btn" clstag="shangpin|keycount|product|jimi_1"></span>
+    </div>
+</div>
+
+    <div class="pop-shop-enter">
+        <a href="//samsung.jd.com" target="_blank" class="btn-gray btn-shop-access J-enter-shop" clstag="shangpin|keycount|product|jinrudianpu">进入店铺</a>
+        <a href="#none" class="btn-gray btn-shop-follower J-follow-shop" data-vid="1000003443" clstag="shangpin|keycount|product|guanzhu">关注店铺</a>
+    </div>
+
+<dl class="jd-service"><dt id="suport-icons">服务支持：</dt></dl>
+</div>            </div>
+                    </div>
+    </div>
+</div>
+
+        <div class="w">
+                <div id="out-of-stock" class="m m2 hide out-of-stock"></div>
+    <div class="m m1 hide" id="fitting-suit">
+        <div class="float-nav-wrap">
+            <div class="mt">
+                <ul class="tab">
+                    <li class="hide ui-switchable-item curr ui-switchable-selected">
+                        <a href="#none">推荐配件</a>
+                    </li>
+                    <li class="hide ui-switchable-item">
+                        <a href="#none">优惠套装</a>
+                    </li>
+                    <li class="hide ui-switchable-item">
+                                                <a href="#none">最佳组合</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="mc" >
+            <div class="ui-switchable-panel hide">
+                <div id="fitting-con" class="fitting-content"><div class="loading-style1"><b></b>加载中，请稍候...</div></div>
+            </div>
+            <div class="ui-switchable-panel hide">
+                <div id="suit-con" class="suit-content"><div class="loading-style1"><b></b>加载中，请稍候...</div></div>
+            </div>
+            <div class="ui-switchable-panel hide">
+                <div id="combine-con" class="combine-content"><div class="loading-style1"><b></b>加载中，请稍候...</div></div>
+            </div>
+        </div>
+    </div>
+    </div>
+<div class="w">
+        <div class="right">
+                <div id="J-baby"></div>
+                <div id="product-detail" class="m m1">
+            <div class="mt J-detail-tab" id="pro-detail-hd" data-fixed="pro-detail-hd-fixed">
+                <div class="mt-inner m-tab-trigger-wrap clearfix">
+                    <ul class="m-tab-trigger">
+                        <li id="detail-tab-intro" class="ui-switchable-item trig-item curr" clstag="shangpin|keycount|product|shangpinjieshao_1"><a href="#product-detail" >商品介绍</a></li>
+                                                <li id="detail-tab-param" class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|pcanshutab"><a href="#product-detail" >规格参数</a></li>
+                                                                        <li id="detail-tab-list"  class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|packlisttab"><a href="#product-detail" >包装清单</a></li>
+                                                                        <li id="detail-tab-comm"  class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|shangpinpingjia_1"><a href="#comment" >商品评价<em class="hl_blue hide">(0)</em></a></li>
+                                                                                                <li id="detail-tab-prom"  class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|psaleservice"><a href="#product-detail">售后保障</a></li>
+                                                <li id="detail-tab-yb" class="ui-switchable-item trig-item hide" clstag="shangpin|keycount|product|jingdongfuwu"><a href="#product-detail">京东服务</a></li>
+                                                                                                                                            </ul>
+                    <div id="nav-minicart" style="display:block">
+                        <div class="nav-minicart-inner">
+                                                            <div class="nav-minicart-btn ">
+                                    <a href="//cart.jd.com/gate.action?pid=2385655&pcount=1&ptype=1" clstag="shangpin|keycount|product|gouwuchexuanfu_1">加入购物车</a>
+                                </div>
+                            
+                            <div class="nav-minicart-con none">
+                                <div class="p-img">
+                                    <img src="//img10.360buyimg.com/n4/jfs/t2068/298/2448145915/157953/7be197df/56d51a42Nd86f1c8e.jpg" data-img="1" width="100" height="100" />
+                                </div>
+                                <div class="p-name">三星 Galaxy S7 edge（G9350）32G版 铂光金移动联通电信4G手机 双卡双待 骁龙820手机</div>
+                                <div class="p-price">
+                                    <em>京东价：</em>
+                                    <strong class="p-price J-p-2385655" id="mini-jd-price"></strong>
+                                </div>
+                            </div>
+                            <div class="clb"></div>
+                        </div>
+                    </div>                    <div id="nav-jdapp" class="nav-jdapp" clstag="shangpin|keycount|product|shoujigoumai_1" data-url="http://cd.jd.com/qrcode?skuId=2385655&location=3&isWeChatStock=31">
+                        <div class="inner">
+                            <i></i>
+                            <div class="dt"><a target="_blank" href="//app.jd.com/">客户端首单 满79送79</a><b></b></div>
+                            <div class="dd lh">
+                                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+                            </div>
+                        </div>
+                    </div>                </div>
+            </div>
+            <div class="ui-switchable-panel" clstag="shangpin|keycount|product|shangpinneirongqu_1">
+                <div class="mc" id="product-detail-1">
+                    <div class="p-parameter" clstag="shangpin|keycount|product|canshuqu_1">
+                                                <ul id="parameter1" class="p-parameter-list">
+                              <li class='fore0'>
+  <i class='i-phone'></i>
+  <div class='detail'>
+     <p title='5.5英寸'>屏幕尺寸：5.5英寸</p>     <p title='2560 x1440'>分辨率：2560 x1440</p>  </div>
+  </li>
+  <li class='fore1'>
+  <i class='i-camera'></i>
+  <div class='detail'>
+     <p title='1200万像素'>后置摄像头：1200万像素</p>     <p title='500万像素'>前置摄像头：500万像素</p>  </div>
+  </li>
+  <li class='fore2'>
+  <i class='i-cpu'></i>
+  <div class='detail'>
+     <p title='四核'>核&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数：四核</p>     <p title='2.15GHz,1.6GHz'>频&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;率：2.15GHz,1.6GHz</p>  </div>
+  </li>
+   <li class='fore3'>
+  <i class='i-network'></i>
+  <div class='detail'>
+            <p title='4G：移动/联通/电信'>4G：移动/联通/电信</p>
+            <p title='3G：移动(TD-SCDMA)/联通(WCDMA)/电信(CDMA2000)'>3G：移动(TD-SCDMA)/联通(WCDMA)/电信(CDMA2000)</p>
+            <p title='2G：移动/联通(GSM)/电信(CDMA)'>2G：移动/联通(GSM)/电信(CDMA)</p>
+       </div>
+  </li>
+
+                        </ul>
+                                                <ul id="parameter2" class="p-parameter-list">
+                                <li title='三星S7 edge'>商品名称：三星S7 edge</li>
+    <li title='2385655'>商品编号：2385655</li>
+                      <li title='三星（SAMSUNG）'>品牌： <a href='//www.jd.com/pinpai/655-15127.html' target='_blank'>三星（SAMSUNG）</a></li>
+                     <li title='450.00g'>商品毛重：450.00g</li>
+            <li title='中国大陆'>商品产地：中国大陆</li>
+                                    <li title='安卓（Android）'>系统：安卓（Android）</li>
+                  <li title='4GB'>运行内存：4GB</li>
+                  <li title='非合约机'>购买方式：非合约机</li>
+                  <li title='以旧换新，骁龙芯片，双卡双待'>热点：以旧换新，骁龙芯片，双卡双待</li>
+                  <li title='1000-1600万'>像素：1000-1600万</li>
+                  <li title='32GB'>机身内存：32GB</li>
+                  <li title='金色'>机身颜色：金色</li>
+                                          </ul>
+                                                <p class="more-par"><a href="#product-detail" class="J-more-param">更多参数&gt;&gt;</a><p>
+                                            </div>
+                    <div id="quality-life" class="quality-life" style="display:none" clstag="shangpin|keycount|product|pinzhishenghuo">
+                        <div class="q-logo">
+                            <img src="//img20.360buyimg.com/da/jfs/t2077/314/2192172483/11044/f861504a/56ca6792N64e5eafc.png" alt="品质生活"/>
+                        </div>
+                        <ul class="quality-icon">
+                                                        <li class="ql-ico-5" data-type="5" data-text="耐久性标签" style="display:none" clstag="shangpin|keycount|product|naijiuxingbiaoqian">
+                                <a href="#none"><i></i><span>耐久性标签</span></a>
+                            </li>
+                            <li class="ql-ico-3" data-type="3" data-text="吊牌" style="display:none" clstag="shangpin|keycount|product|diaopai">
+                                <a href="#none"><i></i><span>吊牌</span></a>
+                            </li>
+                            <!-- <li class="J-ql-iframe ql-ico-4" data-type="4" data-text="质检报告" style="display:none" data-title="质检报告" clstag="shangpin|keycount|product|naijiuxingbiaoqian">
+                                <a href="#none"><i></i><span>质检报告</span></a>
+                            </li> -->
+                            <li class="ql-ico-2" data-type="2" data-text="3C证书" style="display:none" clstag="shangpin|keycount|product|3czhengshu">
+                                <a href="#none"><i></i><span>3C证书</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="J-detail-banner" class="hide"></div>                                                                                
+                                        <div class="detail-content clearfix">
+                        <div class="detail-content-wrap">
+                                                        <div class="detail-correction">
+                                <b></b>如果您发现商品信息不准确，<a href="//club.360buy.com/jdvote/skucheck.aspx?skuid=2385655&amp;cid1=9987&amp;cid2=653&amp;cid3=655" target="_blank" clstag="shangpin|keycount|product|jiucuo_1">欢迎纠错</a>
+                            </div>
+                            
+                                                                                    
+                            <div class="detail-content-item">
+                                                                                                <div id="activity_header" ><div align="center"><img data-lazyload="//img30.360buyimg.com/jgsq-productsoa/jfs/t2419/262/2055394888/131509/53f93676/569d9d6cNe87ae0e8.jpg" alt="" usemap="#Map" border="0" />    <map name="Map">      <area shape="rect" coords="353,108,516,144" href="//huishou.jd.com" target="_blank" />    </map></div><div style="text-align: center;"><a href="//sale.jd.com/act/lbMS4cPOTe5F3.html" target="_blank"><img data-lazyload="//img30.360buyimg.com/jgsq-productsoa/jfs/t1885/8/2377324667/70628/1d20a925/56d64e96N03e08d39.jpg" alt="" /></a></div></div>
+                                                                                                <div id="J-detail-content"><div class="loading-style1"><b></b>商品介绍加载中...</div></div><!-- #J-detail-content -->
+                                                                                                <div id="activity_footer" ><table align="center" border="0" cellpadding="0" cellspacing="0" width="750">  <tbody><tr>    <td height="90"><a href="//jmall.jd.com/shop/2016/index.html" target="_blank"><img data-lazyload="//img30.360buyimg.com/jgsq-productsoa/jfs/t2026/106/1859740318/62327/62c3c475/56792df4N9d5d6e7a.jpg" alt="" height="83" width="750" /></a></td>  </tr></tbody></table><table align="center" border="0" cellpadding="0" cellspacing="0" width="750"><tbody><tr><td><img alt="" data-lazyload="//img30.360buyimg.com/jgsq-productsoa/g5/M01/00/14/rBEIDE-9oR0IAAAAAAAZHgfe-xAAAAH7gP_1qgAABk2620.gif" /></td></tr><tr align="center"><td><img data-lazyload="//img30.360buyimg.com/jgsq-productsoa/jfs/t2530/274/1128491611/193869/22b9ba7d/568e18a8Nf4da8569.jpg" alt="" /></td></tr></tbody></table></div>
+                                                            </div>
+                        </div>
+                                                <div id="J-detail-nav" class="detail-content-nav">
+                            <ul id="J-detail-content-tab" class="detail-content-tab"></ul>
+                                                                                </div>
+                    </div>
+                    
+                                                                                                </div>
+                                            </div>
+                                    <div class="ui-switchable-panel mc hide" id="product-detail-2">
+                      <table cellpadding="0" cellspacing="1" width="100%" border="0" class="Ptable">
+                        <tr><th class="tdTitle" colspan="2">主体</th><tr>
+                              <tr><td class="tdTitle">品牌</td><td>三星（SAMSUNG）</td></tr>
+                                        <tr><td class="tdTitle">型号</td><td>G9350</td></tr>
+                                        <tr><td class="tdTitle">颜色</td><td>铂光金</td></tr>
+                                        <tr><td class="tdTitle">上市年份</td><td>2016年</td></tr>
+                                        <tr><td class="tdTitle">上市月份</td><td>3月</td></tr>
+                                        <tr><td class="tdTitle">输入方式</td><td>触控</td></tr>
+                                        <tr><td class="tdTitle">智能机</td><td>是</td></tr>
+                                        <tr><td class="tdTitle">操作系统</td><td>安卓（Android）</td></tr>
+                                        <tr><td class="tdTitle">操作系统版本</td><td>Android 6.0</td></tr>
+                                        <tr><td class="tdTitle">CPU品牌</td><td>Qualcomm</td></tr>
+                                        <tr><td class="tdTitle">CPU型号</td><td>骁龙820</td></tr>
+                                        <tr><td class="tdTitle">CPU频率</td><td>2.15GHz,1.6GHz</td></tr>
+                                        <tr><td class="tdTitle">CPU核数</td><td>四核</td></tr>
+                                        <tr><td class="tdTitle">GPU</td><td>Adreno 530</td></tr>
+                                        <tr><td class="tdTitle">用户界面</td><td>TouchWiz 4.0</td></tr>
+                                        <tr><td class="tdTitle">运营商标志或内容</td><td>否</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">网络</th><tr>
+                              <tr><td class="tdTitle">4G网络制式</td><td>移动4G/联通4G/电信4G</td></tr>
+                                        <tr><td class="tdTitle">3G网络制式</td><td>移动3G(TD-SCDMA)/联通3G(WCDMA)/电信3G(CDMA2000)</td></tr>
+                                        <tr><td class="tdTitle">2G网络制式</td><td>移动2G/联通2G(GSM)/电信2G(CDMA)</td></tr>
+                                        <tr><td class="tdTitle">网络频率</td><td>2G CDMA CDMA800<br/>2G GSM GSM850,GSM900,DCS1800,PCS1900<br/>3G CDMA BC0(800)<br/>3G UMTS(WCDMA) B1(2100),B2(1900),B5(850),B8(900)<br/>3G TD-SCDMA B34(2010),B39(1880)<br/>4G LTE FDD B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B17(700),B18(800),B19(800),B20(800),B25(1900),B26(800)<br/>4G LTE TDD B38(2600),B39(1900),B40(2300),B41(2500)</td></tr>
+                                        <tr><td class="tdTitle">双卡机类型</td><td>双卡双待</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">存储</th><tr>
+                              <tr><td class="tdTitle">机身内存</td><td>32GB ROM</td></tr>
+                                        <tr><td class="tdTitle">运行内存</td><td>4GB RAM</td></tr>
+                                        <tr><td class="tdTitle">储存卡类型</td><td>microSD</td></tr>
+                                        <tr><td class="tdTitle">最大存储扩展</td><td>200GB</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">显示</th><tr>
+                              <tr><td class="tdTitle">屏幕尺寸</td><td>5.5英寸</td></tr>
+                                        <tr><td class="tdTitle">触摸屏</td><td>电容屏，多点触控</td></tr>
+                                        <tr><td class="tdTitle">分辨率</td><td>2560 x1440</td></tr>
+                                        <tr><td class="tdTitle">屏幕材质</td><td>Super AMOLED</td></tr>
+                                        <tr><td class="tdTitle">副屏参数</td><td>NA</td></tr>
+                                        <tr><td class="tdTitle">超大字体</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">屏幕色彩</td><td>16M</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">感应器</th><tr>
+                              <tr><td class="tdTitle">GPS模块</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">重力感应</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">光线感应</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">距离感应</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">电子罗盘</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">陀螺仪</td><td>支持</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">摄像功能</th><tr>
+                              <tr><td class="tdTitle">后置摄像头</td><td>1200万像素</td></tr>
+                                        <tr><td class="tdTitle">前置摄像头</td><td>500万像素</td></tr>
+                                        <tr><td class="tdTitle">传感器类型</td><td>CMOS</td></tr>
+                                        <tr><td class="tdTitle">闪光灯</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">变焦模式</td><td>数码变焦</td></tr>
+                                        <tr><td class="tdTitle">自动对焦</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">照片分辨率</td><td>2160 x 2160(4.4M),3024 x 3024(8.7M),2880 x 2160(5.9M),4032 x 3024(11.6M),2560 x 1440(w3.6M),4032 x 2268(8.7M),1936 x 1936(3.7M),2592 x 1458(w3.8M),2592 x 1944(5M)</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">娱乐功能</th><tr>
+                              <tr><td class="tdTitle">收音机</td><td>不支持</td></tr>
+                                        <tr><td class="tdTitle">音乐播放</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">视频播放</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">电视播放</td><td>不支持</td></tr>
+                                        <tr><td class="tdTitle">录音</td><td>支持</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">传输功能</th><tr>
+                              <tr><td class="tdTitle">Wi-Fi</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">WIFI热点</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">蓝牙</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">NFC(近场通讯)</td><td>支持</td></tr>
+                                        <tr><td class="tdTitle">OTG</td><td>支持</td></tr>
+                                                    <tr><th class="tdTitle" colspan="2">其他</th><tr>
+                              <tr><td class="tdTitle">SIM卡尺寸</td><td>Nano SIM卡</td></tr>
+                                        <tr><td class="tdTitle">电池类型</td><td>锂电池</td></tr>
+                                        <tr><td class="tdTitle">电池容量（mAh）</td><td>3600</td></tr>
+                                        <tr><td class="tdTitle">电池更换</td><td>不支持</td></tr>
+                                        <tr><td class="tdTitle">理论待机时间（小时）</td><td>339</td></tr>
+                                        <tr><td class="tdTitle">数据线</td><td>Micro USB</td></tr>
+                                        <tr><td class="tdTitle">耳机接口</td><td>3.5mm Stereo</td></tr>
+                                        <tr><td class="tdTitle">机身尺寸（mm）</td><td>150.9 x 72.6 x7.7</td></tr>
+                                        <tr><td class="tdTitle">机身重量（g）</td><td>157</td></tr>
+                                        <tr><td class="tdTitle">机身材质</td><td>玻璃+金属</td></tr>
+                                       </table>
+              </div>
+                                                <div class="ui-switchable-panel mc hide" id="product-detail-3">
+                <div class="item-detail">		                <span style="font-family: 微软雅黑, sans-serif; font-size: 16px; widows: auto;"></span>手机*1、取卡针*1、耳机*1、充电器*1、数据线*1、转换插头*1<span style="font-family: 微软雅黑, sans-serif; font-size: 16px; widows: auto;"></span>		                                                </div>
+            </div>
+            
+                                    <div class="ui-switchable-panel mc hide" id="product-detail-4"></div>
+                                                <div class="ui-switchable-panel mc hide" id="product-detail-5">
+                <div class="item-detail">
+                        本产品全国联保，享受三包服务，质保期为：一年质保<br/>
+                            如因质量问题或故障，凭厂商维修中心或特约维修点的质量检测证明，享受7日内退货，15日内换货，15日以上在质保期内享受免费保修等三包服务！<br />(注:如厂家在商品介绍中有售后保障的说明,则此商品按照厂家说明执行售后保障服务。)
+                        您可以查询本品牌在各地售后服务中心的联系方式，<a target='_blank' href='http://www.samsung.com/cn/support/'>请点击这儿查询......</a><br/><br/>
+        品牌官方网站：<a target='_blank' href='http://www.samsung.com/cn/support/'>http://www.samsung.com/cn/support/</a><br/>
+                售后服务电话：400-810-5858                    </div>
+            </div>
+
+                                    <div class="ui-switchable-panel hide">
+                <div id="J-yb-tab-img" class="mc yb-tab-img">
+                    <img data-src="//img13.360buyimg.com/da/jfs/t955/58/96558194/276153/50963f49/54fd6bfaNae958d04.jpg" />
+                </div>
+            </div>
+                        
+                        
+                        
+                        <div id="promises" class="ui-box">
+                                <div class="serve-agree-bd">
+        <dl>
+                <dt><i class="goods"></i><strong>正品行货</strong></dt>
+                        <dd>京东商城向您保证所售商品均为正品行货，京东自营商品开具机打发票或电子发票。</dd>
+                                    <dt><i class="unprofor"></i><strong>全国联保</strong></dt>
+            <dd>
+                凭质保证书及京东商城发票，可享受全国联保服务（奢侈品、钟表除外；奢侈品、钟表由京东联系保修，享受法定三包售后服务），与您亲临商场选购的商品享受相同的质量保证。京东商城还为您提供具有竞争力的商品价格和<a href='//help.jd.com/user/issue/109-188.html' target='_blank'>运费政策</a>，请您放心购买！
+                <br/><br/>注：因厂家会在没有任何提前通知的情况下更改产品包装、产地或者一些附件，本司不能确保客户收到的货物与商城图片、产地、附件说明完全一致。只能确保为原厂正货！并且保证与当时市场上同样主流新品一致。若本商城没有及时更新，请大家谅解！
+            </dd>
+                                    <dt><i class="no-worries"></i><strong>无忧退换货</strong></dt>
+            <dd class="no-worries-text">
+                客户购买京东自营商品7日内（含7日，自客户收到商品之日起计算），在保证商品完好的前提下，可无理由退货。（部分商品除外，详情请见各商品细则）
+            </dd>
+                </dl>
+        </div>
+                        <br /><br />
+            </div>
+                        <div id="state">
+                <strong>权利声明：</strong><br />京东上的所有商品信息、客户评价、商品咨询、网友讨论等内容，是京东重要的经营资源，未经许可，禁止非法转载使用。
+                <p><b>注：</b>本站商品信息均来自于合作方，其真实性、准确性和合法性由信息拥有者（合作方）负责。本站不提供任何保证，并不承担任何法律责任。</p>
+                                <br />
+                <strong>价格说明：</strong><br /></p>
+                <p><b>京东价：</b>京东价为商品的销售价，是您最终决定是否购买商品的依据。</p>
+                <p><b>划线价：</b>商品展示的划横线价格为参考价，该价格可能是品牌专柜标价、商品吊牌价或由品牌供应商提供的正品零售价（如厂商指导价、建议零售价等）或该商品在京东平台上曾经展示过的销售价；由于地区、时间的差异性和市场行情波动，品牌专柜标价、商品吊牌价等可能会与您购物时展示的不一致，该价格仅供您参考。</p>
+                <p><b>折扣：</b>如无特殊说明，折扣指销售商在原价、或划线价（如品牌专柜标价、商品吊牌价、厂商指导价、厂商建议零售价）等某一价格基础上计算出的优惠比例或优惠金额；如有疑问，您可在购买前联系销售商进行咨询。</p>
+                <p><b>异常问题：</b>商品促销信息以商品详情页“促销”栏中的信息为准；商品的具体售价以订单结算页价格为准；如您发现活动商品售价或促销信息有异常，建议购买前先联系销售商咨询。</p>
+
+            </div>
+        </div>
+        
+                <div id="comment" class="m m2 ">
+            <div class="mt">
+                <h2>商品评价</h2>
+            </div>
+            <div class="mc">
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+        </div>
+
+        <div id="comments-list" class="m ">
+            <div class="mt">
+                <div class="mt-inner m-tab-trigger-wrap clearfix">
+                    <ul class="m-tab-trigger">
+                        <li class="ui-switchable-item trig-item curr" clstag="shangpin|keycount|product|allpingjia_1"><a href="javascript:;">全部评价<em>()</em></a></li>
+                        <li class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|haoping_1"><a href="javascript:;">好评<em>()</em></a></li>
+                        <li class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|zhongping_1"><a href="javascript:;">中评<em>()</em></a></li>
+                        <li class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|chaping_1"><a href="javascript:;">差评<em>()</em></a></li>
+                        <li class="ui-switchable-item trig-item" clstag="shangpin|keycount|product|shaidantab_1"><a href="javascript:;">有图片的评价<em>()</em></a></li>
+                        <li class="trig-item hide" clstag="shangpin|keycount|product|sybg-bq"><a href="#try-report">试用报告<em>()</em></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="comment-0" class="mc ui-switchable-panel comments-table" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>            <div id="comment-1" class="mc none ui-switchable-panel comments-table" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>            <div id="comment-2" class="mc none ui-switchable-panel comments-table" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>            <div id="comment-3" class="mc none ui-switchable-panel comments-table" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>            <div id="comment-4" class="mc none ui-switchable-panel comments-table" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>        </div>        <div id="try-report" class="m try-report"></div>
+                        <div id="consult" class="m m1">
+            <div class="mt">
+                <div class="mt-inner m-tab-trigger-wrap clearfix">
+                    <ul class="m-tab-trigger">
+                        <li class="trig-item ui-switchable-item curr" clstag="shangpin|keycount|product|consult01"><a href="javascript:;">全部购买咨询</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|consult02"><a href="javascript:;">商品咨询</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|consult03"><a href="javascript:;">库存配送</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|consult04"><a href="javascript:;">支付</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|consult05"><a href="javascript:;">发票保修</a></li>
+                    </ul>
+                    <div id="consult-wrap" class="consult-search"> <b></b>
+                        <div class="consult-pop">
+                            <input type="text" id="txbReferSearch" placeholder="请输入关键词">
+                            <input type="button" value="搜索" id="btnReferSearch" class="btn-search" clstag="shangpin|keycount|product|consult09"> <a class="consult-close hl_blue" href="#none" onclick="closeCounsultSearch()">取消</a>
+                        </div>
+                    </div>
+                    <div class="J-jimi-btn consult-jimi"></div>
+                                                            <div class="consult-pub">
+                        <a class="css3-btn" target="_blank" href="//club.jd.com/allconsultations/2385655-1-1.html#form1" clstag="shangpin|keycount|product|consult10">发表咨询</a>
+                    </div>
+                                    </div>
+            </div>
+            <div id="consult-search">
+                <div class="prompt">
+                    <strong>温馨提示:</strong>因厂家更改产品包装、产地或者更换随机附件等没有任何提前通知，且每位咨询者购买情况、提问时间等不同，为此以下回复仅对提问者3天内有效，其他网友仅供参考！若由此给您带来不便请多多谅解，谢谢！
+                </div>
+            </div>
+            <div id="consult-0" class="mc tabcon ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="consult-1" class="mc tabcon none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="consult-2" class="mc tabcon none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="consult-3" class="mc tabcon none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="consult-4" class="mc tabcon none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+                    </div>
+                        <div style="display: none"><a href="//cps.jd.com">销售联盟</a><a href="//gongyi.jd.com">京东公益</a><a href="//club.jd.com/links.aspx">友情链接</a>
+        <div id="hidconsultations"><a href="//club.jd.com/consultation/2385655-60725321.html">怎么分期</a><a href="//club.jd.com/consultation/2385655-60698796.html">怎么分期买农行可以吗</a><a href="//club.jd.com/consultation/2385655-60698741.html">手机分期</a><a href="//club.jd.com/consultation/2385655-60696366.html">你好，分期首付要多少？？</a><a href="//club.jd.com/consultation/2385655-60631467.html">分期付款怎么弄</a><a href="//club.jd.com/consultation/2385655-60630106.html">分期付款怎么付</a><a href="//club.jd.com/consultation/2385655-60629444.html">请问分期支持建设银行吗？</a><a href="//club.jd.com/consultation/2385655-60507559.html">请问分期付怎么付</a><a href="//club.jd.com/consultation/2385655-60491397.html">收到货了，但是没有发票，怎么回事？</a><a href="//club.jd.com/consultation/2385655-60490391.html">Q怎么分期</a></div>
+            <div id="hidcomment">
+            <div class="item">
+        <div class="user"><div class="u-address">()</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_a8a79357-02bf-4fff-a75c-9d3aaf1f63eb_1.html">手机很漂亮，很..</a></strong><span class="star sa1"></span><span class="date-comment">2016-04-01 18:05:49</span></div><div class="comment-content">使用心得：手机很漂亮，很..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">(北京)</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_42503ab4-88ef-4bc5-8789-cf17607bb089_1.html">还好，没送壳</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 18:04:57</span></div><div class="comment-content">使用心得：还好，没送壳</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">(北京)</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_4a4892c7-5336-4b4f-84d4-0b4028547607_1.html">很赞！上午下单..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:45:11</span></div><div class="comment-content">使用心得：很赞！上午下单..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">(广东)</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_83010c94-146b-4642-97fd-94ecb65d1a3c_1.html">手机用了一段时..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:35:16</span></div><div class="comment-content">使用心得：手机用了一段时..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">()</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_8ed39a30-b96c-4f1c-8fdb-58a44326aafa_1.html">手机外观线条都..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:20:08</span></div><div class="comment-content">使用心得：手机外观线条都..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">(北京)</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_4758142e-106f-4c63-91d9-50725a77cbf4_1.html">很喜欢，功能很..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:19:39</span></div><div class="comment-content">使用心得：很喜欢，功能很..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">(黑龙江)</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_939aac13-5ee8-4637-b44e-c9acbeab3533_1.html">第一次用三星机..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:10:20</span></div><div class="comment-content">使用心得：第一次用三星机..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">()</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_2625eae5-d632-41a4-92d9-7090a320f86c_1.html">好</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:09:41</span></div><div class="comment-content">使用心得：好</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">(黑龙江)</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_f0cd3d08-83f7-4423-a36d-8badf3564ea8_1.html">今天到的  正..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 17:06:57</span></div><div class="comment-content">使用心得：今天到的  正..</div></div>
+      </div>
+            <div class="item">
+        <div class="user"><div class="u-address">()</div><div class="date-buy">购买日期<br>2016-04-01</div></div>
+        <div class="i-item"><div class="o-topic"><strong class="topic"><a href="//club.360buy.com/repay/2385655_27f187da-7914-4dbe-8f94-fec255146c28_1.html">要是评分的话，..</a></strong><span class="star sa5"></span><span class="date-comment">2016-04-01 16:58:33</span></div><div class="comment-content">使用心得：要是评分的话，..</div></div>
+      </div>
+          </div>
+    </div>
+                        <div id="discuss" class="m m1" data-widget="tabs">
+            <div class="mt">
+                <div class="mt-inner m-tab-trigger-wrap clearfix">
+                    <ul class="m-tab-trigger">
+                        <li id="J-group-tab" class="trig-item ui-switchable-item hide"><a href="#none">热门贴子</a></li>
+                        <li class="trig-item ui-switchable-item curr" clstag="shangpin|keycount|product|taolunquan_1"><a href="javascript:;" >网友讨论圈</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|shaidantie_1"><a href="javascript:;" >晒单贴</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|taoluntie_1"><a href="javascript:;" >讨论贴</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|wendatie_1"><a href="javascript:;" >问答贴</a></li>
+                        <li class="trig-item ui-switchable-item" clstag="shangpin|keycount|product|quanzitie_1"><a href="javascript:;" >圈子贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="discuss-0" class="mc ui-switchable-panel">
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="discuss-1" class="mc ui-switchable-panel">
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="discuss-2" class="mc none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="discuss-3" class="mc none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="discuss-4" class="mc none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+            <div id="discuss-5" class="mc none ui-switchable-panel" >
+                <div class="loading-style1"><b></b>加载中，请稍候...</div>
+            </div>
+        </div>
+                        <div id="related-viewed" class="m m2 hide">
+            <div class="mt">
+                <h2>浏览了该商品的用户还浏览了</h2>
+            </div>
+            <div class="mc">
+                <ul class="lh"><div class="loading-style1"><b></b>加载中，请稍候...</div></ul>
+            </div>
+        </div>
+            </div>
+            <div class="left">
+                        <div class='ui-box you-find' clstag="shangpin|keycount|product|fanxiangdaogou_1">
+          <div class='ui-box-hd'><h2>关于手机，你可能在找</h2></div>
+          <div class='ui-box-bd'>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e5%ae%89%e5%8d%93%ef%bc%88Android%ef%bc%89&enc=utf-8&cid3=655' target='_blank'>安卓（Android）</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e9%9d%9e%e5%90%88%e7%ba%a6%e6%9c%ba&enc=utf-8&cid3=655' target='_blank'>非合约机</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%201000-1600%e4%b8%87&enc=utf-8&cid3=655' target='_blank'>1000-1600万</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e9%87%91%e8%89%b2&enc=utf-8&cid3=655' target='_blank'>金色</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e7%a7%bb%e5%8a%a84G%2f%e8%81%94%e9%80%9a4G%2f%e7%94%b5%e4%bf%a14G&enc=utf-8&cid3=655' target='_blank'>移动4G/联通4G/电信4G</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e7%a7%bb%e5%8a%a84G&enc=utf-8&cid3=655' target='_blank'>移动4G</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e8%81%94%e9%80%9a4G&enc=utf-8&cid3=655' target='_blank'>联通4G</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e7%94%b5%e4%bf%a14G&enc=utf-8&cid3=655' target='_blank'>电信4G</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%204GB&enc=utf-8&cid3=655' target='_blank'>4GB</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%205.5-5.1%e8%8b%b1%e5%af%b8&enc=utf-8&cid3=655' target='_blank'>5.5-5.1英寸</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e4%bb%a5%e6%97%a7%e6%8d%a2%e6%96%b0&enc=utf-8&cid3=655' target='_blank'>以旧换新</a></span>
+                            <span class='ui-tag ui-tag2'><a href='//search.jd.com/Search?keyword=%e4%b8%89%e6%98%9f%ef%bc%88SAMSUNG%ef%bc%89%20%e9%aa%81%e9%be%99%e8%8a%af%e7%89%87&enc=utf-8&cid3=655' target='_blank'>骁龙芯片</a></span>
+                      </div>
+        </div>
+                <div id="related-sorts" class="m m2" clstag="shangpin|keycount|product|sortlist_1">
+        <div class="mt">
+            <h2>相关分类</h2>
+        </div>
+        <div class="mc">
+            <ul class="lh">
+                                                                                            <li><a href="//list.jd.com/list.html?cat=9987,653,655" target='_blank' title="手机">手机</a></li>
+                                                                                                                    <li><a href="//list.jd.com/list.html?cat=9987,653,659" target='_blank' title="对讲机">对讲机</a></li>
+                                                        </ul>
+        </div>
+    </div>
+          <div id="related-brands" class="m m2" clstag="shangpin|keycount|product|samebrand">
+        <div class="mt">
+            <h2>同类其他品牌</h2>
+        </div>
+        <div class="mc">
+            <ul class="lh">
+                                                            <li><a href="//www.jd.com/pinpai/655-14026.html" target='_blank' title="APPLE">APPLE</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-18374.html" target='_blank' title="小米（MI）">小米（MI）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-8557.html" target='_blank' title="华为（HUAWEI）">华为（HUAWEI）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-12669.html" target='_blank' title="魅族（MEIZU）">魅族（MEIZU）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-91515.html" target='_blank' title="锤子（smartisan）">锤子（smartisan）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-15127.html" target='_blank' title="三星（SAMSUNG）">三星（SAMSUNG）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-11188.html" target='_blank' title="乐视（Letv）">乐视（Letv）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-11515.html" target='_blank' title="联想">联想</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-21011.html" target='_blank' title="中兴（ZTE）">中兴（ZTE）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-2032.html" target='_blank' title="OPPO">OPPO</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-135609.html" target='_blank' title="奇酷（qiku）">奇酷（qiku）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-13539.html" target='_blank' title="诺基亚（NOKIA）">诺基亚（NOKIA）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-18362.html" target='_blank' title="小辣椒">小辣椒</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-10640.html" target='_blank' title="酷派（Coolpad）">酷派（Coolpad）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-36654.html" target='_blank' title="大显（DaXian）">大显（DaXian）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-25591.html" target='_blank' title="vivo">vivo</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-27094.html" target='_blank' title="努比亚（nubia）">努比亚（nubia）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-134922.html" target='_blank' title="ZUK">ZUK</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-20130.html" target='_blank' title="优思（Uniscope）">优思（Uniscope）</a></li>
+                                            <li><a href="//www.jd.com/pinpai/655-89010.html" target='_blank' title="纽曼（Newman）">纽曼（Newman）</a></li>
+                                                </ul>
+        </div>
+    </div>
+                        <div id="view-buy" class="m m2 related-buy" clstag="shangpin|keycount|product|darenxuangou_1"></div>
+                <div id="ranklist" class="m m2" data-widget="tabs" clstag="">
+        <div class="mt">
+            <h2>手机排行榜</h2>
+        </div>
+        <div class="mc">
+            <ul class="tab">
+                <li class="ui-switchable-item curr">同价位</li>
+                <li class="ui-switchable-item">同品牌</li>
+                <li class="ui-switchable-item">同类别</li>
+            </ul>
+            <ul class="ui-switchable-panel tabcon">
+                                                            <li class="fore1">
+                        <span>1</span>
+                        <div class="p-img"><a href="//item.jd.com/1856581.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img11.360buyimg.com/n5/jfs/t2113/203/128429424/95656/be32c7d2/55f0e7b5Nf1ed773f.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1856581.html" target="_blank" title='Apple iPhone 6s'>Apple iPhone 6s</a></div>
+                        <div class="p-price"><strong class="J-p-1856581"></strong></div>
+                    </li>
+                                            <li class="fore2">
+                        <span>2</span>
+                        <div class="p-img"><a href="//item.jd.com/1861091.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img11.360buyimg.com/n5/jfs/t1750/64/1543556998/95929/2dd7e965/55f0e824Neac4417f.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1861091.html" target="_blank" title='Apple iPhone 6s Plus'>Apple iPhone 6s Plus</a></div>
+                        <div class="p-price"><strong class="J-p-1861091"></strong></div>
+                    </li>
+                                            <li class="fore3">
+                        <span>3</span>
+                        <div class="p-img"><a href="//item.jd.com/1217493.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img13.360buyimg.com/n5/jfs/t286/271/995842399/768456/29136988/542d06c5N4289e325.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1217493.html" target="_blank" title='AppleiPhone 6'>AppleiPhone 6</a></div>
+                        <div class="p-price"><strong class="J-p-1217493"></strong></div>
+                    </li>
+                                            <li class="fore4">
+                        <span>4</span>
+                        <div class="p-img"><a href="//item.jd.com/2384564.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img14.360buyimg.com/n5/jfs/t2032/242/2648646329/137382/ce1e5aa7/56ea7311Nae748468.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/2384564.html" target="_blank" title='三星S7'>三星S7</a></div>
+                        <div class="p-price"><strong class="J-p-2384564"></strong></div>
+                    </li>
+                                            <li class="fore5">
+                        <span>5</span>
+                        <div class="p-img"><a href="//item.jd.com/1217521.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img11.360buyimg.com/n5/jfs/t2464/150/936733635/97566/faa21ca9/56374d9eNd067aeb2.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1217521.html" target="_blank" title='AppleiPhone 6 Plus'>AppleiPhone 6 Plus</a></div>
+                        <div class="p-price"><strong class="J-p-1217521"></strong></div>
+                    </li>
+                                            <li class="fore6">
+                        <span>6</span>
+                        <div class="p-img"><a href="//item.jd.com/10150492498.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img13.360buyimg.com/n5/jfs/t2128/255/2343369708/112621/39c8dd8e/56d58e07N1a21fd2a.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/10150492498.html" target="_blank" title='vivo Xplay5 全网通4G手机 4GB+128GB 双卡双待 香槟金'>vivo Xplay5 全网通4G手机 4GB+128GB 双卡双待 香槟金</a></div>
+                        <div class="p-price"><strong class="J-p-10150492498"></strong></div>
+                    </li>
+                                            <li class="fore7">
+                        <span>7</span>
+                        <div class="p-img"><a href="//item.jd.com/2125418.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img13.360buyimg.com/n5/jfs/t1900/291/926734943/116949/87e8f59e/56374c69N4afda07a.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/2125418.html" target="_blank" title='华为Mate S'>华为Mate S</a></div>
+                        <div class="p-price"><strong class="J-p-2125418"></strong></div>
+                    </li>
+                                                </ul>
+            <ul class="ui-switchable-panel tabcon">
+                                                            <li class="fore1">
+                        <span>1</span>
+                        <div class="p-img"><a href="//item.jd.com/2384564.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img14.360buyimg.com/n5/jfs/t2032/242/2648646329/137382/ce1e5aa7/56ea7311Nae748468.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/2384564.html" target="_blank" title='三星S7'>三星S7</a></div>
+                        <div class="p-price"><strong class="J-p-2384564"></strong></div>
+                    </li>
+                                            <li class="fore2">
+                        <span>2</span>
+                        <div class="p-img"><a href="//item.jd.com/1708160.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img10.360buyimg.com/n5/jfs/t1666/266/489420074/214442/cfa9d887/55a5f463Nf4b6d502.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1708160.html" target="_blank" title='三星A8'>三星A8</a></div>
+                        <div class="p-price"><strong class="J-p-1708160"></strong></div>
+                    </li>
+                                            <li class="fore3">
+                        <span>3</span>
+                        <div class="p-img"><a href="//item.jd.com/1220052.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img12.360buyimg.com/n5/jfs/t1162/357/699366294/172535/7ed37288/553de82bNa9cac059.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1220052.html" target="_blank" title='三星Note4'>三星Note4</a></div>
+                        <div class="p-price"><strong class="J-p-1220052"></strong></div>
+                    </li>
+                                            <li class="fore4">
+                        <span>4</span>
+                        <div class="p-img"><a href="//item.jd.com/971254.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img14.360buyimg.com/n5/g15/M03/0E/19/rBEhWVJXoTsIAAAAAALHrcM7ICMAAEBVALvXLkAAsfF306.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/971254.html" target="_blank" title='三星Note3'>三星Note3</a></div>
+                        <div class="p-price"><strong class="J-p-971254"></strong></div>
+                    </li>
+                                            <li class="fore5">
+                        <span>5</span>
+                        <div class="p-img"><a href="//item.jd.com/1109730.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img10.360buyimg.com/n5/g13/M06/08/07/rBEhUlNXFqoIAAAAAAFSxtWrUoIAAMUWAGAaVUAAVLe013.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1109730.html" target="_blank" title='三星E1200R'>三星E1200R</a></div>
+                        <div class="p-price"><strong class="J-p-1109730"></strong></div>
+                    </li>
+                                            <li class="fore6">
+                        <span>6</span>
+                        <div class="p-img"><a href="//item.jd.com/1318683.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img13.360buyimg.com/n5/jfs/t982/315/744464723/170901/df05e412/5541f0a7N472d0b74.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1318683.html" target="_blank" title='三星A7'>三星A7</a></div>
+                        <div class="p-price"><strong class="J-p-1318683"></strong></div>
+                    </li>
+                                            <li class="fore7">
+                        <span>7</span>
+                        <div class="p-img"><a href="//item.jd.com/1673716.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img11.360buyimg.com/n5/jfs/t880/265/1284090928/92696/ab3e091f/55926e84Nc77c9dcb.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1673716.html" target="_blank" title='三星GALAXY J5（J5008) 白色 移动4G'>三星GALAXY J5（J5008) 白色 移动4G</a></div>
+                        <div class="p-price"><strong class="J-p-1673716"></strong></div>
+                    </li>
+                                                </ul>
+            <ul class="ui-switchable-panel tabcon">
+                                                            <li class="fore1">
+                        <span>1</span>
+                        <div class="p-img"><a href="//item.jd.com/1856581.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img11.360buyimg.com/n5/jfs/t2113/203/128429424/95656/be32c7d2/55f0e7b5Nf1ed773f.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1856581.html" target="_blank" title='Apple iPhone 6s'>Apple iPhone 6s</a></div>
+                        <div class="p-price"><strong class="J-p-1856581"></strong></div>
+                    </li>
+                                            <li class="fore2">
+                        <span>2</span>
+                        <div class="p-img"><a href="//item.jd.com/1861091.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img11.360buyimg.com/n5/jfs/t1750/64/1543556998/95929/2dd7e965/55f0e824Neac4417f.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1861091.html" target="_blank" title='Apple iPhone 6s Plus'>Apple iPhone 6s Plus</a></div>
+                        <div class="p-price"><strong class="J-p-1861091"></strong></div>
+                    </li>
+                                            <li class="fore3">
+                        <span>3</span>
+                        <div class="p-img"><a href="//item.jd.com/1217493.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img13.360buyimg.com/n5/jfs/t286/271/995842399/768456/29136988/542d06c5N4289e325.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1217493.html" target="_blank" title='AppleiPhone 6'>AppleiPhone 6</a></div>
+                        <div class="p-price"><strong class="J-p-1217493"></strong></div>
+                    </li>
+                                            <li class="fore4">
+                        <span>4</span>
+                        <div class="p-img"><a href="//item.jd.com/2025574.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img14.360buyimg.com/n5/jfs/t2470/30/755323007/84160/debf1d71/562898c4N3e135baf.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/2025574.html" target="_blank" title='小米小米4C'>小米小米4C</a></div>
+                        <div class="p-price"><strong class="J-p-2025574"></strong></div>
+                    </li>
+                                            <li class="fore5">
+                        <span>5</span>
+                        <div class="p-img"><a href="//item.jd.com/2028973.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img13.360buyimg.com/n5/jfs/t2140/4/1534225725/218231/34e2240e/56612a3cNc021ccfa.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/2028973.html" target="_blank" title='乐视乐1S'>乐视乐1S</a></div>
+                        <div class="p-price"><strong class="J-p-2028973"></strong></div>
+                    </li>
+                                            <li class="fore6">
+                        <span>6</span>
+                        <div class="p-img"><a href="//item.jd.com/1300052.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img12.360buyimg.com/n5/jfs/t1270/177/823274526/120753/4cc086ef/554c760cN0f247ac8.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1300052.html" target="_blank" title='荣耀 6 plus'>荣耀 6 plus</a></div>
+                        <div class="p-price"><strong class="J-p-1300052"></strong></div>
+                    </li>
+                                            <li class="fore7">
+                        <span>7</span>
+                        <div class="p-img"><a href="//item.jd.com/1603609.html" target="_blank"><img data-img="1" height="50" width="50"  data-lazyload="//img14.360buyimg.com/n5/jfs/t1270/246/1076044366/120025/3d6a9ae3/556d64fcNf28f90d0.jpg"/></a></div>
+                        <div class="p-name"><a href="//item.jd.com/1603609.html" target="_blank" title='魅族 魅蓝note2'>魅族 魅蓝note2</a></div>
+                        <div class="p-price"><strong class="J-p-1603609"></strong></div>
+                    </li>
+                                                                        <div style='display:none'>
+                                          <a href='//www.jd.com/compare/2385655-1856581-0-0.html'>三星S7 edge和Apple iPhone 6s哪个好</a>
+                                          <a href='//www.jd.com/compare/2385655-1861091-0-0.html'>三星S7 edge和Apple iPhone 6s Plus哪个好</a>
+                                          <a href='//www.jd.com/compare/2385655-1217493-0-0.html'>三星S7 edge和AppleiPhone 6哪个好</a>
+                                          <a href='//www.jd.com/compare/2385655-2025574-0-0.html'>三星S7 edge和小米小米4C哪个好</a>
+                                          <a href='//www.jd.com/compare/2385655-2028973-0-0.html'>三星S7 edge和乐视乐1S哪个好</a>
+                                          <a href='//www.jd.com/compare/2385655-1300052-0-0.html'>三星S7 edge和荣耀 6 plus哪个好</a>
+                                          <a href='//www.jd.com/compare/2385655-1603609-0-0.html'>三星S7 edge和魅族 魅蓝note2哪个好</a>
+                                        </div>
+                            </ul>
+        </div>
+    </div>
+                        <div id="buy-buy" class="m m2 related-buy"></div>
+                <div id="browse-browse" class="m m2 related-buy" clstag="shangpin|keycount|product|seemore__1"></div>
+                    <div id="miaozhen7886" class="m" clstag="shangpin|keycount|product|ad_1"></div>
+        <div id="miaozhen10767" class="m" clstag="shangpin|keycount|product|ad_1"></div>        </div>
+        <span class="clr"></span>
+</div>
+<div id="footmark" class="w footmark"></div>
+<div id="GLOBAL_FOOTER"></div>
+<script>
+seajs.use('APP_ROOT/js/entrance', function(app) {app.init();});
+    if(!/debug=ad/.test(location.href)) {
+        seajs.use('//d.jd.com/hotwords/get?Position=A-digital-013');
+    }
+function totouchbate() {
+  var exp = new Date();
+  exp.setTime(exp.getTime() + 30 * 24 * 60 * 60 * 1000);
+  document.cookie = "pcm=2;expires=" + exp.toGMTString() + ";path=/;domain=jd.com";
+  window.location.href="//item.m.jd.com/product/2385655.html";
+}
+if(window.showtouchurl) {
+  $("#GLOBAL_FOOTER").after("<div class='ac' style='padding-bottom:30px;'>你的浏览器更适合浏览触屏版&nbsp;&nbsp;&nbsp;&nbsp;<a href='#none' style='text-decoration:underline;' onclick='totouchbate()'>京东触屏版</a></div>");
+} else {
+  $("#GLOBAL_FOOTER").css("padding-bottom", "30px");
+}
+</script>
+<img src="//jcm.jd.com/pre" width="0" height="0" style="display:none"/>
+<script>
+seajs.use('//wl.jd.com/wl.js');
+
+
+dataLayer = [{
+    'google_tag_params': {
+        ecomm_prodid:pageConfig.product.skuid,
+        ecomm_pagetype:"item",
+        ecomm_pname:pageConfig.product.name,
+        ecomm_pcat:['9987|653|655'],
+        ecomm_pvalues:['9987|653|655'],
+        ecomm_totalvalue:null,
+        ecomm_pbrand:15127    }
+}]
+</script>
+<noscript>iframe(src='//www.googletagmanager.com/ns.html?id=GTM-T947SH', height='0', width='0', style='display: none; visibility: hidden;')</noscript>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T947SH');
+</script><div id="J-global-toolbar"></div>
+<script>
+    seajs.use(['//static.360buyimg.com/devfe/toolbar/1.0.0/js/main'], function(toolbar) {
+        var sid = pageConfig.product.cat[2] === 832 ? '737542' : '992349';
+
+        var phoneNetwork = pageConfig.product.phoneNetwork 
+            ? pageConfig.product.phoneNetwork.join(',') 
+            : '';
+
+        var hallEnable = pageConfig.product.cat[2] === 655;
+        var hallUrl = {
+            url: '//ctc.jd.com/hall/index?',
+            param: {
+                sku: pageConfig.product.skuid,
+                cat: pageConfig.product.cat.join(','),
+                mode: phoneNetwork
+            }
+        };
+
+        var cat = pageConfig.product.cat;
+        var is3CTargetCat = cat[0] == 652
+            || cat[0] == 670
+            || cat[0] == 9987
+            || cat[0] == 4938
+            || cat[1] == 9340
+            || cat[1] == 3282
+            || cat[1] == 9351
+            || cat[2] == 6980;
+
+        var isBabyTargetCat = cat[1] == 6313
+            || cat[1] == 12193
+            || cat[1] == 1523
+            || cat[1] == 1524
+            || cat[1] == 1525
+            || cat[1] == 1526
+            || cat[1] == 1527
+            || cat[1] == 1528
+            || cat[1] == 4997
+            || cat[1] == 6233;
+
+
+        var ad_entry = { enabled: false };
+        if (is3CTargetCat) {
+            ad_entry = {
+                enabled: true,
+                id: "0_0_7209",
+                startTime: +new Date(2016, 3, 6, 0, 0, 0) / 1000,
+                endTime: +new Date(2016, 3, 27, 0, 0, 0) / 1000
+            };  
+        }
+        if (isBabyTargetCat) {
+            ad_entry = {
+                enabled: true,
+                id: "0_0_7789",
+                startTime: +new Date(2016, 3, 11, 0, 0, 0) / 1000,
+                endTime: +new Date(2016, 3, 19, 0, 0, 0) / 1000
+            }; 
+        }
+        
+        pageConfig.toolbar = new toolbar({
+            pType: 'item',
+            bars: {
+                hall: {
+                    index: 0.5,
+                    title: '营业厅',
+                    login: true,
+                    enabled: hallEnable,
+                    iframe: hallUrl.url + $.param(hallUrl.param)
+                },
+                cart: {
+                    enabled: true
+                },
+                coupon: {
+                    index: 1.5,
+                    enabled: true,
+                    title: '优惠券',
+                    login: true,
+                    iframe: '//cd.jd.com/coupons?' + $.param({
+                        skuId: pageConfig.product.skuid,
+                        cat: pageConfig.product.cat.join(','),
+                        venderId: pageConfig.product.venderId
+                    })
+                },
+                jimi: {
+                    iframe: '//jimi.jd.com/index.action?productId='+ pageConfig.product.skuid +'&source=jdhome'
+                }
+            },
+            links: {
+                feedback: {
+                    href: '//surveys.jd.com/index.php?r=survey/index/sid/323814/newtest/Y/lang/zh-Hans'
+                },
+                top:{
+                    anchor:"#"
+                }
+            },
+            ad: ad_entry
+        });
+    });
+</script>
+ 
+</body>
+</html>

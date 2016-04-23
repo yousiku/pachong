@@ -1,0 +1,59 @@
+CPU说明:Qualcomm 骁龙801
+机身内存:16GB ROM
+耳机接口:3.5mm
+屏幕材质:AMOLED
+操作系统:安卓（Android）
+数据线:Micro USB 
+距离感应:支持
+其他性能:快速拍摄/4倍数码变焦/HRD/全景拍摄/点处即拍
+光线感应:支持
+3G网络制式:移动3G(TD-SCDMA)/联通3G(WCDMA)/电信3G(CDMA2000)
+输入方式:触控
+GPS模块:支持
+运行内存:2GB RAM
+触摸屏:电容屏，多点触控
+型号:XT1085
+音乐播放:支持AAC, AAC+, Enhanced AAC+, AMR-NB, AMR-WB, MIDI, MP3, PCM/WAVE, FLAC, OGG/Vorbis等格式
+上市年份:2015年
+OTG:支持
+电池类型:锂电池
+用户界面:Android 原生UI
+2G网络制式:移动2G/联通2G(GSM)/电信2G(CDMA)
+CPU频率:2.5GHz
+颜色:蓝色
+储存卡类型:不支持
+PPI:423ppi
+前置摄像头:200万像素
+机身材质:金属中框
+屏幕色彩:1600万色 
+陀螺仪:支持
+WIFI热点:支持
+屏幕尺寸:5.2英寸
+智能机:是
+CPU型号:MSM8974AC
+传感器类型:CMOS
+闪光灯:LED补光灯
+变焦模式:数码变焦
+操作系统版本:Android 5.1
+品牌:摩托罗拉（Motorola）
+重力感应:支持
+CPU核数:四核
+机身重量（g）:144
+视频播放:支持H.263, H.264 AVC, MPEG-4 SP, VP8等格式
+网络频率:FDD-LTE/TD-LTE/WCDMA/TD-SCDMA/CDMA2000/GSM/CDMA
+CPU品牌:Qualcomm 骁龙
+GPU:Qualcomm Adreno330
+电池更换:不支持
+Wi-Fi:802.11 a/b/g/n/ac, 2.4GHz/5GHz 双频
+NFC(近场通讯):支持
+机身尺寸（mm）:约140.8 x72.4  x 3.8-9.9mm(曲面厚度）
+运营商标志或内容:无
+上市月份:2月
+4G网络制式:移动4G/联通4G/电信4G
+电子罗盘:支持
+自动对焦:支持
+后置摄像头:1300万像素
+SIM卡尺寸:Nano SIM卡
+蓝牙:支持
+分辨率:1920×1080(FHD,1080P)
+电池容量（mAh）:2300mAh

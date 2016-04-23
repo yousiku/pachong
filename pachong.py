@@ -99,7 +99,7 @@ class JDPC:
 
 spider = JDPC()
 urls = []
-file = open("urls.txt")
+file = open("urls1.txt",'w+')
 for line in file.readlines():
     urls.append("http:"+line.strip("\n"))
 print urls[0]

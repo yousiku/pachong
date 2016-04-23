@@ -1,0 +1,56 @@
+2G网络制式:移动2G/联通2G(GSM)
+机身内存:16GB ROM
+耳机接口:3.5mm
+屏幕材质:Corning大猩猩第三代玻璃
+操作系统:安卓（Android）
+数据线:Micro USB 
+距离感应:支持
+光线感应:支持
+3G网络制式:移动3G(TD-SCDMA)/联通3G(WCDMA)
+理论待机时间（小时）:混合使用时间最长可达 24 小时
+输入方式:触控
+GPS模块:支持
+运行内存:1GB RAM
+触摸屏:电容屏，多点触控
+型号:XT1079
+理论通话时间（小时）:混合使用时间最长可达 24 小时
+音乐播放:支持AMR-NB, AMR-WB, AAC, AAC+, eAAC+, MP3, PCM, FLAC, MIDI, OGG/Vorbis等格式
+上市年份:2015年
+电池类型:锂电池
+WIFI热点:支持
+双卡机类型:双卡双待单通
+CPU频率:1.2GHz
+颜色:夜黑
+储存卡类型:MicroSD(TF)
+PPI:294
+前置摄像头:200万像素
+机身材质:塑料
+陀螺仪:支持
+屏幕尺寸:5.0英寸
+最大存储扩展:32GB
+智能机:是
+CPU型号:Qualcomm Snapdragon 400
+数据业务:支持
+闪光灯:LED闪光灯
+变焦模式:4倍数码变焦
+操作系统版本:Android5.0
+品牌:摩托罗拉（Motorola）
+CPU核数:四核
+机身重量（g）:155
+视频播放:支持720p HD Video, 30fps (MPEG4, H.263, H.264, VP8)等格式
+网络频率:TD LTE Bands 38/39/40/41; FDD LTE Bands 1/3/7; TD-SCDMA Bands 34/39; GSM/GPRS/EDGE   850/900/1800/1900 MHz;UMTS/HSPA+ 850/900/1900/2100 MHz
+CPU品牌:Qualcomm 骁龙
+GPU:Adreno 305
+电池更换:不支持
+Wi-Fi:802.11 b/g/n
+机身尺寸（mm）:70.7*141.5*6.0-11.0mm
+运营商标志或内容:无
+上市月份:2月
+4G网络制式:移动4G（TD-LTE）/联通4G（FDD-LTE）
+电子罗盘:支持
+自动对焦:支持
+后置摄像头:800万像素
+SIM卡尺寸:Micro SIM卡(小卡)
+蓝牙:支持
+分辨率:1280×720(HD,720P) 
+电池容量（mAh）:2390mAh
