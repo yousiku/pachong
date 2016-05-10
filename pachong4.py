@@ -130,11 +130,10 @@ class JdPrice(object):
         except IndexError,e:
             print "get_attrs_new error:" + e.message
             return None
-        print attrs[0][14]
         if not self.flag:
             return None
-        sql = "insert into webapp_details (skuid,listDate,inputType,isSmart,osVersion,mbROM,scrSize,fenbianlv,hvGPS,reCamera,prCamera,hvWiFi,hvBlue,battery,mbSize,mbWeight)values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
-        self.db.cur.execute(sql,(self.get_product_skuid(),attrs[0][0],attrs[0][1],attrs[0][2],attrs[0][3],attrs[0][4],attrs[0][5],attrs[0][6],attrs[0][7],attrs[0][8],attrs[0][9],attrs[0][10],attrs[0][11],attrs[0][12],attrs[0][13],attrs[0][14]))
+        sql = "insert into webapp_mobile (skuid,url,keywords,price,listDate,inputType,isSmart,osVersion,mbROM,scrSize,fenbianlv,hvGPS,reCamera,prCamera,hvWiFi,hvBlue,battery,mbSize,mbWeight)values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        self.db.cur.execute(sql,(self.get_product_skuid(),self.url,self.get_product_name(),float(self.get_product_price()),attrs[0][0],attrs[0][1],attrs[0][2],attrs[0][3],attrs[0][4],attrs[0][5],attrs[0][6],attrs[0][7],attrs[0][8],attrs[0][9],attrs[0][10],attrs[0][11],attrs[0][12],attrs[0][13],attrs[0][14]))
         self.db.cur.close()
         self.db.conn.commit()
         self.db.conn.close()
@@ -193,7 +192,7 @@ class MysqlConn(object):
             port = 3306,
             user = 'root',
             passwd = '4QSJQCRC',
-            db = 'jdproducts',
+            db = 'pcas2',
             charset = 'utf8'
         )
         self.cur = self.conn.cursor()
